@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-9.10.md",
+                "file": "Bughunter-report/2023-09/2023-09.10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd670db20ee5f152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bughunter-report/2023-09/2023-09-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,10 +178,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "48246e73ac9dc9bd",
+  "active": "d444b7c5061a83cf",
   "lastOpenFiles": [
-    "Bughunter-report/2023-09/2023-9.10.md",
+    "Bughunter-report/2023-09/2023-09-11.md",
+    "Bughunter-report/2023-09/2023-09.10.md",
     "README.md",
+    "Bughunter-report/2023-09.md",
+    "Bughunter-report/2023-09/未命名",
     "Bughunter-report/2023-09",
     "Bughunter-report"
   ]
