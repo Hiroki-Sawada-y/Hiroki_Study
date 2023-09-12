@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48246e73ac9dc9bd",
+            "id": "3f93fd6063ca3848",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "83589fc63b7cae3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bughunter-report/2023-09/2023-09.10.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fd670db20ee5f152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bughunter-report/2023-09/2023-09-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,12 +154,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0b533c42d0c221fe",
+  "active": "3f93fd6063ca3848",
   "lastOpenFiles": [
+    "Bughunter-report/2023-09.md",
+    "README.md",
+    "世界经济/第一章 经济概念/经济概念.md",
+    "Bughunter-report/2023-10",
+    "Bughunter-report/media",
+    "世界经济/media",
+    "世界经济/第一章 经济概念",
+    "世界经济",
     "Bughunter-report/2023-09/2023-09-11.md",
     "Bughunter-report/2023-09/2023-09.10.md",
-    "README.md",
-    "Bughunter-report/2023-09.md",
     "Bughunter-report/2023-09/未命名",
     "Bughunter-report/2023-09",
     "Bughunter-report"
