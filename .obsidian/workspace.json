@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Bughunter-report/2023-09/2023-09.10.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "Bughunter-report/2023-09/2023-09-11.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -97,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d444b7c5061a83cf",
+  "active": "0b533c42d0c221fe",
   "lastOpenFiles": [
     "Bughunter-report/2023-09/2023-09-11.md",
     "Bughunter-report/2023-09/2023-09.10.md",
