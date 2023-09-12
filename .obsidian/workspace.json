@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "4cf827d961efcc3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d71d62173d41295f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48246e73ac9dc9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83589fc63b7cae3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bughunter-report/2023-09/2023-9.10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43d8e26d8f79f6ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fab985a62f0ee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d444b7c5061a83cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "526d3727a8d9fd0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Xss",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea1ded3f35392f7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b533c42d0c221fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cec311729c090cba",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b7a008d41794b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "772c8b1c9ee50534",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bughunter-report/2023-09/2023-9.10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4ce931a7cf0bcfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bughunter-report/2023-09/2023-9.10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6de1117cf3ef2dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a4d36eab6e86727",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bughunter-report/2023-09/2023-9.10.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "526d3727a8d9fd0a",
+  "lastOpenFiles": [
+    "README.md",
+    "Bughunter-report/2023-09/2023-9.10.md",
+    "Bughunter-report/2023-09",
+    "Bughunter-report"
+  ]
+}
