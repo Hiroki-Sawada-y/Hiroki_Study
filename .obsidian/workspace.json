@@ -11,11 +11,10 @@
             "id": "3f93fd6063ca3848",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -73,7 +72,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,8 +152,8 @@
   },
   "active": "3f93fd6063ca3848",
   "lastOpenFiles": [
-    "Bughunter-report/2023-09.md",
     "README.md",
+    "Bughunter-report/2023-09.md",
     "世界经济/第一章 经济概念/经济概念.md",
     "Bughunter-report/2023-10",
     "Bughunter-report/media",
