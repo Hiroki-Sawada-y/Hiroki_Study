@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Bughunter-report/2023-09/2023-09-11.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -97,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
