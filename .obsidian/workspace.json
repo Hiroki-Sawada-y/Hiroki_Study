@@ -11,10 +11,11 @@
             "id": "3f93fd6063ca3848",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "世界经济/第一章 经济概念/经济概念.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -72,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "世界经济/第一章 经济概念/经济概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "世界经济/第一章 经济概念/经济概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "世界经济/第一章 经济概念/经济概念.md"
+              }
             }
           }
         ],
@@ -152,9 +156,9 @@
   },
   "active": "3f93fd6063ca3848",
   "lastOpenFiles": [
+    "世界经济/第一章 经济概念/经济概念.md",
     "README.md",
     "Bughunter-report/2023-09.md",
-    "世界经济/第一章 经济概念/经济概念.md",
     "Bughunter-report/2023-10",
     "Bughunter-report/media",
     "世界经济/media",
