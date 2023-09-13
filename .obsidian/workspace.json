@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maekdown笔记/基础用法.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Bughunter-report/2023-09/2023-09-10.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,20 +166,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b72ccd2e12d355e3",
+  "active": "50ea7ca965a56c88",
   "lastOpenFiles": [
     "Maekdown笔记/基础用法.md",
-    "Maekdown笔记/进阶用法.md",
-    "Web安全基础/后端漏洞/SQL注入/SQL注入基础.md",
-    "README.md",
     "Bughunter-report/2023-09/2023-09-10.md",
-    "Bughunter-report/2023-09/2023-09-11.md",
+    "Bughunter-report/2023-09/2023-09-12.md",
     "Bughunter-report/2023-09/2023-09-13.md",
+    "Bughunter-report/2023-09/2023-09-11.md",
+    "README.md",
+    "Web安全基础/后端漏洞/SQL注入/SQL注入基础.md",
     "Web安全基础/网络基础.md",
+    "Maekdown笔记/进阶用法.md",
     "Maekdown笔记",
     "Web安全基础/后端漏洞/SQL注入",
     "Web安全基础/后端漏洞",
-    "Bughunter-report/2023-09/2023-09-12.md",
     "Bughunter-report/media/github404.jpg",
     "Bughunter-report/media/bypass-20230911.jpg",
     "Bughunter-report/2023-09.md",
