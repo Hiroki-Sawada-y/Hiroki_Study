@@ -14,6 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "681bf8029e250119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-10.md",
+                "file": "Maekdown笔记/进阶用法.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Maekdown笔记/进阶用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Maekdown笔记/进阶用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Maekdown笔记/进阶用法.md"
               }
             }
           }
@@ -166,12 +179,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50ea7ca965a56c88",
+  "active": "b72ccd2e12d355e3",
   "lastOpenFiles": [
-    "Web安全基础/0.网络基础.md",
+    "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
     "README.md",
-    "Maekdown笔记/基础用法.md",
     "Bughunter-report/2023-09/2023-09-10.md",
+    "摘录_感悟/书籍",
+    "摘录_感悟",
+    "Web安全基础/0.网络基础.md",
+    "Maekdown笔记/基础用法.md",
     "Bughunter-report/2023-09/2023-09-12.md",
     "Bughunter-report/2023-09/2023-09-13.md",
     "Bughunter-report/2023-09/2023-09-11.md",
@@ -188,8 +204,6 @@
     "Bughunter-report/2023-10",
     "Bughunter-report/media",
     "世界经济/media",
-    "世界经济/第一章 经济概念",
-    "世界经济",
-    "Bughunter-report/2023-09/未命名"
+    "世界经济/第一章 经济概念"
   ]
 }
