@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "摘录_感悟/效率管理/网安项目/0.概述.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "681bf8029e250119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
-                "mode": "source",
                 "source": true
               }
             }
@@ -49,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/2023-09-12.md",
+                "file": "摘录_感悟/效率管理/OKR/2023-09-11.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/2023-09-12.md",
+                "file": "摘录_感悟/效率管理/网安项目/0.概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/2023-09-12.md",
+                "file": "摘录_感悟/效率管理/网安项目/0.概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/2023-09-12.md"
+                "file": "摘录_感悟/效率管理/网安项目/0.概述.md"
               }
             }
           }
@@ -191,18 +178,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d0c466bb9f2f5d3d",
+  "active": "50ea7ca965a56c88",
   "lastOpenFiles": [
-    "摘录_感悟/效率管理/网安项目/0.概述.md",
+    "README.md",
     "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
-    "摘录_感悟/效率管理/OKR/2023-09-12.md",
+    "摘录_感悟/效率管理/OKR/2023-09-11.md",
+    "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
+    "摘录_感悟/效率管理/网安项目/0.概述.md",
     "摘录_感悟/效率管理/网安项目",
     "摘录_感悟/效率管理/OKR",
-    "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
     "Web安全基础/0.网络基础.md",
     "摘录_感悟/影视",
     "摘录_感悟/效率管理",
-    "README.md",
     "Maekdown笔记/进阶用法.md",
     "Bughunter-report/2023-09/2023-09-10.md",
     "摘录_感悟/书籍",
