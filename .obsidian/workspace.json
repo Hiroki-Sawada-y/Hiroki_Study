@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9270f76c2c552c65",
+        "id": "33b294c28a43f9b5",
         "type": "tabs",
         "children": [
           {
-            "id": "50ea7ca965a56c88",
+            "id": "6365dce7bcd4e8bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "摘录_感悟/效率管理/网安项目/0.概述.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b72ccd2e12d355e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d0c466bb9f2f5d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "摘录_感悟/效率管理/OKR/2023-09-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -178,27 +154,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50ea7ca965a56c88",
+  "active": "6365dce7bcd4e8bd",
   "lastOpenFiles": [
-    "README.md",
     "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
-    "摘录_感悟/效率管理/OKR/2023-09-11.md",
-    "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
     "摘录_感悟/效率管理/网安项目/0.概述.md",
+    "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
+    "摘录_感悟/效率管理/OKR/2023-09-11.md",
+    "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
+    "Bughunter-report/2023-09/2023-09-13.md",
+    "Bughunter-report/2023-09/2023-09-12.md",
+    "Bughunter-report/2023-09/2023-09-11.md",
+    "Bughunter-report/2023-09/2023-09-10.md",
+    "Maekdown笔记/进阶用法.md",
+    "Maekdown笔记/基础用法.md",
+    "README.md",
     "摘录_感悟/效率管理/网安项目",
     "摘录_感悟/效率管理/OKR",
     "Web安全基础/0.网络基础.md",
     "摘录_感悟/影视",
     "摘录_感悟/效率管理",
-    "Maekdown笔记/进阶用法.md",
-    "Bughunter-report/2023-09/2023-09-10.md",
     "摘录_感悟/书籍",
     "摘录_感悟",
-    "Maekdown笔记/基础用法.md",
-    "Bughunter-report/2023-09/2023-09-12.md",
-    "Bughunter-report/2023-09/2023-09-13.md",
-    "Bughunter-report/2023-09/2023-09-11.md",
-    "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
     "Maekdown笔记",
     "Web安全基础/1.后端漏洞/SQL注入",
     "Web安全基础/1.后端漏洞",
