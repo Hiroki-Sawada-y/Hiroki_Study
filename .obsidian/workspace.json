@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Web安全基础/0.网络基础.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Web安全基础/0.网络基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Web安全基础/0.网络基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Web安全基础/0.网络基础.md"
               }
             }
           }
@@ -181,9 +181,9 @@
   },
   "active": "b72ccd2e12d355e3",
   "lastOpenFiles": [
+    "README.md",
     "Maekdown笔记/进阶用法.md",
     "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
-    "README.md",
     "Bughunter-report/2023-09/2023-09-10.md",
     "摘录_感悟/书籍",
     "摘录_感悟",
