@@ -4,7 +4,6 @@
   "switcher",
   "graph",
   "backlink",
-  "canvas",
   "outgoing-link",
   "tag-pane",
   "page-preview",
@@ -14,7 +13,10 @@
   "command-palette",
   "editor-status",
   "bookmarks",
+  "random-note",
   "outline",
   "word-count",
+  "slides",
+  "audio-recorder",
   "file-recovery"
 ]
