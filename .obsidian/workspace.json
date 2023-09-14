@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "摘录_感悟/书籍/《你也走了很远的路吧》.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "摘录_感悟/书籍/《你也走了很远的路吧》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "摘录_感悟/书籍/《你也走了很远的路吧》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "摘录_感悟/书籍/《你也走了很远的路吧》.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "c343934fd7ee489d",
   "lastOpenFiles": [
-    "摘录_感悟/书籍/《你也走了很远的路吧》.md",
     "README.md",
+    "摘录_感悟/书籍/《你也走了很远的路吧》.md",
     "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
     "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
     "应急响应/入侵排查/Linux入侵排查.md",
