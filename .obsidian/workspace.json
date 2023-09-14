@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5bfa6642aa3752d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "应急响应/入侵排查/Linux入侵排查.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "应急响应/入侵排查/Linux入侵排查.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "应急响应/入侵排查/Linux入侵排查.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "应急响应/入侵排查/Linux入侵排查.md"
+                "file": "README.md"
               }
             }
           }
@@ -168,20 +155,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5bfa6642aa3752d2",
+  "active": "c343934fd7ee489d",
   "lastOpenFiles": [
-    "应急响应/media/awk-f.png",
-    "应急响应/入侵排查/Linux入侵排查.md",
-    "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
-    "应急响应/media",
+    "摘录_感悟/书籍/《你也走了很远的路吧》.md",
     "README.md",
+    "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
+    "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
+    "应急响应/入侵排查/Linux入侵排查.md",
+    "应急响应/media/awk-f.png",
+    "应急响应/media",
     "应急响应/入侵排查",
     "应急响应",
     "Web安全基础/应急响应",
-    "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
     "摘录_感悟/效率管理/网安项目/0.概述.md",
     "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
-    "摘录_感悟/书籍/《》.md",
     "摘录_感悟/效率管理/OKR/2023-09-11.md",
     "Markdown笔记/进阶用法.md",
     "数学分析/14.多元函数极限与连续性/0.n维Euclid空间.md",
