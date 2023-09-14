@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
-                "mode": "source",
+                "file": "摘录_感悟/效率管理/网安项目/0.概述.md",
+                "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "90008e9e80622fcf",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "摘录_感悟/效率管理/网安项目/0.概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "摘录_感悟/效率管理/网安项目/0.概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "摘录_感悟/效率管理/网安项目/0.概述.md"
+              }
             }
           }
         ],
@@ -163,12 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "90008e9e80622fcf",
+  "active": "6365dce7bcd4e8bd",
   "lastOpenFiles": [
-    "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
-    "摘录_感悟/效率管理/网安项目/0.概述.md",
     "摘录_感悟/书籍/《》.md",
     "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
+    "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
+    "摘录_感悟/效率管理/网安项目/0.概述.md",
     "摘录_感悟/效率管理/OKR/2023-09-11.md",
     "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
     "Bughunter-report/2023-09/2023-09-13.md",

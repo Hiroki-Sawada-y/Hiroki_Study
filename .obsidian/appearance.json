@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "baseFontSize": 23
+  "baseFontSize": 23,
+  "cssTheme": "Night Owl",
+  "theme": "system"
 }
