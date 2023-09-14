@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5bfa6642aa3752d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "应急响应/入侵排查/Linux入侵排查.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
+                "file": "应急响应/入侵排查/Linux入侵排查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
+                "file": "应急响应/入侵排查/Linux入侵排查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md"
+                "file": "应急响应/入侵排查/Linux入侵排查.md"
               }
             }
           }
@@ -155,17 +168,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c343934fd7ee489d",
+  "active": "5bfa6642aa3752d2",
   "lastOpenFiles": [
+    "应急响应/media/awk-f.png",
+    "应急响应/入侵排查/Linux入侵排查.md",
     "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
+    "应急响应/media",
+    "README.md",
+    "应急响应/入侵排查",
+    "应急响应",
+    "Web安全基础/应急响应",
     "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
     "摘录_感悟/效率管理/网安项目/0.概述.md",
     "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
     "摘录_感悟/书籍/《》.md",
     "摘录_感悟/效率管理/OKR/2023-09-11.md",
-    "Maekdown笔记/进阶用法.md",
+    "Markdown笔记/进阶用法.md",
     "数学分析/14.多元函数极限与连续性/0.n维Euclid空间.md",
-    "Maekdown笔记/基础用法.md",
+    "Markdown笔记/基础用法.md",
     "多元函数的极限与连续性.md",
     "数学分析/14.多元函数极限与连续性",
     "数学分析",
@@ -173,16 +193,11 @@
     "Bughunter-report/2023-09/2023-09-12.md",
     "Bughunter-report/2023-09/2023-09-11.md",
     "Bughunter-report/2023-09/2023-09-10.md",
-    "README.md",
     "摘录_感悟/效率管理/网安项目",
     "摘录_感悟/效率管理/OKR",
     "Web安全基础/0.网络基础.md",
     "摘录_感悟/影视",
     "摘录_感悟/效率管理",
-    "摘录_感悟/书籍",
-    "摘录_感悟",
-    "Maekdown笔记",
-    "Web安全基础/1.后端漏洞/SQL注入",
     "Bughunter-report/media/github404.jpg",
     "Bughunter-report/media/bypass-20230911.jpg",
     "Bughunter-report/2023-09.md",
