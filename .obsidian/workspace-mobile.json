@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "8700457291d7e759",
+    "type": "split",
+    "children": [
+      {
+        "id": "e992b7980cbafa3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffccd9c7688ed4a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bughunter-report/2023-09/2023-09-13.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b7931b2f6201a7c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f903780af6139290",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4dba05c81768249b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a9a5ee07a811345c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5eab5905bbecae9f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e8e011fb781e7159",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "22c805f31e0a8a74",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Bughunter-report/2023-09/2023-09-13.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9580d6d03395c88a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Bughunter-report/2023-09/2023-09-13.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "34b6bf6a859f3310",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Bughunter-report/2023-09/2023-09-13.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "ffccd9c7688ed4a8",
+  "lastOpenFiles": [
+    "draw/test.md",
+    "Bughunter-report/2023-09/2023-09-13.md",
+    "Bughunter-report/2023-09/2023-09-11.md",
+    "Bughunter-report/2023-09/2023-09-10.md",
+    "Excalidraw/Drawing 2023-09-15 11.31.18.md",
+    "Excalidraw/Drawing 2023-09-15 11.31.18.png",
+    "应急响应/入侵排查/Linux入侵排查.md",
+    "Excalidraw/Drawing 2023-09-15 11.11.13.excalidraw.md",
+    "draw"
+  ]
+}
