@@ -11,15 +11,26 @@
             "id": "93dee11ba4d83ba6",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "draw/autosrc.md"
+              }
+            }
+          },
+          {
+            "id": "bd1defa40009deb1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "摘录_感悟/效率管理/OKR/week1/week 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,44 +164,44 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "93dee11ba4d83ba6",
+  "active": "bd1defa40009deb1",
   "lastOpenFiles": [
-    "README.md",
-    "摘录_感悟/效率管理/OKR/week1/week 1.md",
-    "摘录_感悟/效率管理/OKR/module.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-16.md",
+    "摘录_感悟/效率管理/OKR/module.md",
+    "摘录_感悟/效率管理/OKR/week1/week 1.md",
     "摘录_感悟/效率管理/网安项目/0.概述.md",
+    "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
+    "Bughunter-report/2023-09/2023-09-12.md",
+    "Bughunter-report/2023-09/2023-09-11.md",
+    "Bughunter-report/2023-09/2023-09-10.md",
+    "Bughunter-report/2023-09/2023-09-13.md",
+    "draw/autostudy.md",
+    "draw/study.md",
+    "draw/autosrc.md",
+    "draw/autoshell.md",
+    "Markdown笔记/基础用法.md",
+    "Bughunter-report/2023-09/2023-09-15.md",
+    "README.md",
     "摘录_感悟/效率管理/OKR/module/week 1.md",
     "摘录_感悟/效率管理/OKR/module",
     "摘录_感悟/效率管理/OKR/week1",
     "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
     "Web安全基础/0.网络基础.md",
-    "Markdown笔记/基础用法.md",
     "Markdown笔记/进阶用法.md",
-    "draw/autoshell.md",
-    "draw/autosrc.md",
-    "Bughunter-report/2023-09/2023-09-12.md",
-    "Bughunter-report/2023-09/2023-09-11.md",
-    "Bughunter-report/2023-09/2023-09-13.md",
-    "Bughunter-report/2023-09/2023-09-15.md",
-    "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
     "摘录_感悟/书籍/《你也走了很远的路吧》.md",
     "摘录_感悟/书籍/《离开前请叫醒我》.md",
     "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
     "摘录_感悟/书籍/《我的奋斗》.md",
     "应急响应/入侵排查/Linux入侵排查.md",
-    "Bughunter-report/2023-09/2023-09-10.md",
     "Bughunter-report/media/bypass-20230911.jpg",
     "Bughunter-report/media/github404.jpg",
     "draw/test.md",
-    "draw/Drawing 2023-09-15 21.41.58.md",
     "draw",
     "应急响应/media/awk-f.png",
     "应急响应/media",
     "应急响应/入侵排查",
     "应急响应",
     "Web安全基础/应急响应",
-    "数学分析/14.多元函数极限与连续性/0.n维Euclid空间.md",
     "数学分析/14.多元函数极限与连续性",
     "数学分析",
     "摘录_感悟/效率管理/网安项目"
