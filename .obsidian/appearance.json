@@ -1,6 +1,10 @@
 {
   "accentColor": "",
-  "baseFontSize": 10,
+  "baseFontSize": 12,
   "cssTheme": "Night Owl",
-  "theme": "system"
+  "theme": "system",
+  "interfaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Comic Sans MS",
+  "monospaceFontFamily": "Ink Free",
+  "baseFontSizeAction": true
 }

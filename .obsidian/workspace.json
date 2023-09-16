@@ -11,9 +11,20 @@
             "id": "93dee11ba4d83ba6",
             "type": "leaf",
             "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "6d82e85160c86788",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
+                "file": "摘录_感悟/效率管理/OKR/week1/module.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "摘录_感悟/书籍/《我的奋斗》.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,14 +48,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/week 1.md",
+                "file": "摘录_感悟/书籍/《离开前请叫醒我》.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -118,14 +129,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘录_感悟/书籍/《我的奋斗》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -135,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "摘录_感悟/书籍/《我的奋斗》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,18 +166,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "摘录_感悟/书籍/《我的奋斗》.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,49 +181,50 @@
       "graph:查看关系图谱": false,
       "audio-recorder:开始/结束录音": false,
       "random-note:开始漫游笔记": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f84456b9ffcbcfb6",
+  "active": "0b533c42d0c221fe",
   "lastOpenFiles": [
+    "摘录_感悟/效率管理/OKR/week 1.md",
+    "摘录_感悟/效率管理/OKR/week1/module.md",
+    "摘录_感悟/效率管理/网安项目/0.概述.md",
+    "摘录_感悟/效率管理/OKR/module/week 1.md",
+    "摘录_感悟/效率管理/OKR/module",
+    "摘录_感悟/效率管理/OKR/week1",
+    "README.md",
+    "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
+    "Web安全基础/0.网络基础.md",
+    "Markdown笔记/基础用法.md",
+    "Markdown笔记/进阶用法.md",
+    "draw/autoshell.md",
+    "draw/autosrc.md",
+    "Bughunter-report/2023-09/2023-09-12.md",
+    "Bughunter-report/2023-09/2023-09-11.md",
+    "Bughunter-report/2023-09/2023-09-13.md",
+    "Bughunter-report/2023-09/2023-09-15.md",
+    "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
+    "摘录_感悟/书籍/《你也走了很远的路吧》.md",
+    "摘录_感悟/书籍/《离开前请叫醒我》.md",
     "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
     "摘录_感悟/书籍/《我的奋斗》.md",
-    "draw/autosrc.md",
-    "摘录_感悟/效率管理/OKR/week 1.md",
-    "摘录_感悟/效率管理/网安项目/0.概述.md",
-    "draw/autoshell.md",
-    "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
-    "README.md",
-    "摘录_感悟/书籍/《你也走了很远的路吧》.md",
-    "Bughunter-report/2023-09/2023-09-15.md",
+    "应急响应/入侵排查/Linux入侵排查.md",
     "Bughunter-report/2023-09/2023-09-10.md",
-    "Bughunter-report/2023-09/2023-09-13.md",
     "Bughunter-report/media/bypass-20230911.jpg",
     "Bughunter-report/media/github404.jpg",
     "draw/test.md",
     "draw/Drawing 2023-09-15 21.41.58.md",
-    "摘录_感悟/书籍/《离开前请叫醒我》.md",
-    "应急响应/入侵排查/Linux入侵排查.md",
     "draw",
-    "Bughunter-report/2023-09/2023-09-12.md",
-    "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
     "应急响应/media/awk-f.png",
     "应急响应/media",
     "应急响应/入侵排查",
     "应急响应",
     "Web安全基础/应急响应",
-    "Markdown笔记/进阶用法.md",
     "数学分析/14.多元函数极限与连续性/0.n维Euclid空间.md",
-    "Markdown笔记/基础用法.md",
     "多元函数的极限与连续性.md",
     "数学分析/14.多元函数极限与连续性",
     "数学分析",
-    "Bughunter-report/2023-09/2023-09-11.md",
-    "摘录_感悟/效率管理/网安项目",
-    "摘录_感悟/效率管理/OKR",
-    "Web安全基础/0.网络基础.md",
-    "摘录_感悟/影视",
-    "Bughunter-report/2023-09.md",
-    "世界经济/第一章 经济概念/经济概念.md"
+    "摘录_感悟/效率管理/网安项目"
   ]
 }
