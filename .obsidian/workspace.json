@@ -11,44 +11,9 @@
             "id": "93dee11ba4d83ba6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "6d82e85160c86788",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/week1/module.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f84456b9ffcbcfb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c25465cedc438020",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "摘录_感悟/书籍/《离开前请叫醒我》.md",
+                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md",
                 "mode": "preview",
                 "source": true
               }
@@ -108,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md"
+              }
             }
           }
         ]
@@ -185,15 +153,16 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0b533c42d0c221fe",
+  "active": "93dee11ba4d83ba6",
   "lastOpenFiles": [
-    "摘录_感悟/效率管理/OKR/week 1.md",
-    "摘录_感悟/效率管理/OKR/week1/module.md",
+    "README.md",
+    "摘录_感悟/效率管理/OKR/week1/week 1.md",
+    "摘录_感悟/效率管理/OKR/module.md",
+    "摘录_感悟/效率管理/OKR/week1/2023-09-16.md",
     "摘录_感悟/效率管理/网安项目/0.概述.md",
     "摘录_感悟/效率管理/OKR/module/week 1.md",
     "摘录_感悟/效率管理/OKR/module",
     "摘录_感悟/效率管理/OKR/week1",
-    "README.md",
     "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
     "Web安全基础/0.网络基础.md",
     "Markdown笔记/基础用法.md",
@@ -222,7 +191,6 @@
     "应急响应",
     "Web安全基础/应急响应",
     "数学分析/14.多元函数极限与连续性/0.n维Euclid空间.md",
-    "多元函数的极限与连续性.md",
     "数学分析/14.多元函数极限与连续性",
     "数学分析",
     "摘录_感悟/效率管理/网安项目"
