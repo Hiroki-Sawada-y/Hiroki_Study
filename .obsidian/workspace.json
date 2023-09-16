@@ -11,15 +11,26 @@
             "id": "93dee11ba4d83ba6",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "draw/autosrc.md"
+              }
+            }
+          },
+          {
+            "id": "c25465cedc438020",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "摘录_感悟/效率管理/OKR/week 1.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cec311729c090cba",
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "摘录_感悟/效率管理/OKR/week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "摘录_感悟/效率管理/OKR/week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "摘录_感悟/效率管理/OKR/week 1.md"
               }
             }
           }
@@ -154,20 +165,21 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "93dee11ba4d83ba6",
+  "active": "c25465cedc438020",
   "lastOpenFiles": [
-    "摘录_感悟/书籍/《你也走了很远的路吧》.md",
-    "README.md",
+    "摘录_感悟/效率管理/网安项目/0.概述.md",
+    "draw/autoshell.md",
     "摘录_感悟/效率管理/OKR/week 1.md",
     "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
+    "draw/autosrc.md",
+    "README.md",
+    "摘录_感悟/书籍/《你也走了很远的路吧》.md",
     "Bughunter-report/2023-09/2023-09-15.md",
     "Bughunter-report/2023-09/2023-09-10.md",
     "Bughunter-report/2023-09/2023-09-13.md",
     "Bughunter-report/media/bypass-20230911.jpg",
     "Bughunter-report/media/github404.jpg",
     "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
-    "draw/autosrc.md",
-    "摘录_感悟/效率管理/网安项目/0.概述.md",
     "draw/test.md",
     "draw/Drawing 2023-09-15 21.41.58.md",
     "摘录_感悟/书籍/《离开前请叫醒我》.md",
