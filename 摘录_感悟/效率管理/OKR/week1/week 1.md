@@ -20,7 +20,7 @@
 	- [ ] notion接口编写
 	- [ ] 一些计科基础学习补充
 	- [ ] shell![shell](/draw/autoshell)
-	- [ ] study[study](/draw/autostudy)
+	- [ ] study![study](/draw/autostudy)
 
 ## 未来一个月要完成的任务
 - [ ] 国外src平台公益积分
