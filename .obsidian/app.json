@@ -6,5 +6,6 @@
   "promptDelete": false,
   "livePreview": false,
   "showLineNumber": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "tabSize": 3
 }
