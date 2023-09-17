@@ -1,4 +1,213 @@
 {
-  "workspaces": {},
-  "active": "阅读"
+  "workspaces": {
+    "专业课学习": {
+      "main": {
+        "id": "4cf827d961efcc3f",
+        "type": "split",
+        "children": [
+          {
+            "id": "8b2fec6907f5611b",
+            "type": "split",
+            "children": [
+              {
+                "id": "c85dacd091740e23",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "03460f5986e6950e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "media-view",
+                      "state": {
+                        "info": {
+                          "host": 1,
+                          "id": "BV1Tr4y1w7Ef/",
+                          "src": "https://www.bilibili.com/video/BV1Tr4y1w7Ef/?spm_id_from=333.337.search-card.all.click&vd_source=5f4f31ca939fbba01cb0ba2f7b60b9e3",
+                          "iframe": "https://player.bilibili.com/player.html?bvid=BV1Tr4y1w7Ef/&high_quality=1&danmaku=0",
+                          "hash": ""
+                        },
+                        "currentTime": 816.217287
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "7e55af1e7a20eb1b",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "99af3196bee6df37",
+                    "type": "leaf",
+                    "state": {
+                      "type": "excalidraw",
+                      "state": {
+                        "file": "draw/Drawing 2023-09-16 18.54.59.md"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "dbf5c7ddde6714f6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c80c017284ec7b19",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "摘录_感悟/效率管理/OKR/week1/2023-09-16.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "43d8e26d8f79f6ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "30fab985a62f0ee6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d444b7c5061a83cf",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "526d3727a8d9fd0a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#xss",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ea1ded3f35392f7d",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b533c42d0c221fe",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "cec311729c090cba",
+        "type": "split",
+        "children": [
+          {
+            "id": "16b7a008d41794b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "772c8b1c9ee50534",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "draw/Drawing 2023-09-16 18.54.59.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "a4ce931a7cf0bcfc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "draw/Drawing 2023-09-16 18.54.59.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c6de1117cf3ef2dd",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "0a4d36eab6e86727",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "draw/Drawing 2023-09-16 18.54.59.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 273.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "audio-recorder:开始/结束录音": false,
+          "random-note:开始漫游笔记": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "workspaces:管理工作区布局": false,
+          "pdf-to-markdown-plugin:PDF to Markdown": false,
+          "command-palette:打开命令面板": false
+        }
+      },
+      "active": "99af3196bee6df37"
+    }
+  },
+  "active": "专业课学习"
 }

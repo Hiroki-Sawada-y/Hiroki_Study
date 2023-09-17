@@ -9,6 +9,8 @@
   "page-preview",
   "daily-notes",
   "note-composer",
+  "command-palette",
+  "slash-command",
   "editor-status",
   "bookmarks",
   "random-note",
