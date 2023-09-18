@@ -4,75 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "095d1255c45850ce",
-        "type": "split",
+        "id": "cbd6ef2196a68895",
+        "type": "tabs",
         "children": [
           {
-            "id": "61a7986ec79aca46",
-            "type": "split",
-            "children": [
-              {
-                "id": "7e55af1e7a20eb1b",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "660f958fc3ed76b2",
-                    "type": "leaf",
-                    "state": {
-                      "type": "media-view",
-                      "state": {
-                        "info": {
-                          "host": 1,
-                          "id": "BV1Tr4y1w7Ef/",
-                          "src": "https://www.bilibili.com/video/BV1Tr4y1w7Ef/?spm_id_from=333.337.search-card.all.click&vd_source=5f4f31ca939fbba01cb0ba2f7b60b9e3",
-                          "iframe": "https://player.bilibili.com/player.html?bvid=BV1Tr4y1w7Ef/&high_quality=1&danmaku=0",
-                          "hash": ""
-                        },
-                        "currentTime": 2.182424
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "02c1b4a49b8f8d6a",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "8660bbf9245cd9f2",
-                    "type": "leaf",
-                    "state": {
-                      "type": "excalidraw",
-                      "state": {
-                        "file": "draw/autosrc.md"
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
+            "id": "fa893e256d073bd9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           },
           {
-            "id": "cbd6ef2196a68895",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0efaf7d3979e7092",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "摘录_感悟/效率管理/OKR/week1/2023-09-18.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "22b3c7987a996d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专业课学习/离散数学/数理逻辑.md",
+                "mode": "preview",
+                "source": true
               }
-            ]
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/week1/2023-09-18.md",
+                "file": "专业课学习/离散数学/数理逻辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/week1/2023-09-18.md",
+                "file": "专业课学习/离散数学/数理逻辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/week1/2023-09-18.md"
+                "file": "专业课学习/离散数学/数理逻辑.md"
               }
             }
           }
@@ -195,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +166,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0efaf7d3979e7092",
+  "active": "22b3c7987a996d79",
   "lastOpenFiles": [
-    "摘录_感悟/效率管理/OKR/week1/2023-09-16.md",
+    "专业课学习/离散数学/数理逻辑.md",
+    "Markdown笔记/基础用法.md",
+    "专业课学习/离散数学/0.数理逻辑.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-18.md",
+    "专业课学习/离散数学",
+    "摘录_感悟/效率管理/OKR/week1/2023-09-16.md",
     "摘录_感悟/效率管理/OKR/week1/week 1.md",
     "专业课学习/常微分方程/0.常微分方程的基本概念.md",
     "专业课学习/数学分析",
@@ -222,7 +181,6 @@
     "draw/autosrc.md",
     "draw/autostudy.md",
     "draw/autoshell.md",
-    "Markdown笔记/基础用法.md",
     "专业课学习/数学分析/多元函数的极限与连续性.md",
     "专业课学习/数学分析/draw/画图.md",
     "专业课学习/数学分析/draw",
@@ -246,11 +204,8 @@
     "Bughunter-report/2023-09/2023-09-11.md",
     "Bughunter-report/2023-09/2023-09-10.md",
     "Web安全基础/0.网络基础.md",
-    "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
     "pdf",
-    "摘录_感悟/效率管理/网安项目/0.概述.md",
     "摘录_感悟/效率管理/OKR/module",
-    "摘录_感悟/效率管理/OKR/week1",
     "应急响应/media/awk-f.png"
   ]
 }
