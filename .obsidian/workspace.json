@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专业课学习/离散数学/数理逻辑.md",
+                "file": "Markdown笔记/基础用法.md",
                 "mode": "preview",
                 "source": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课学习/离散数学/数理逻辑.md",
+                "file": "Markdown笔记/基础用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课学习/离散数学/数理逻辑.md",
+                "file": "Markdown笔记/基础用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课学习/离散数学/数理逻辑.md"
+                "file": "Markdown笔记/基础用法.md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "d444b7c5061a83cf",
   "lastOpenFiles": [
-    "专业课学习/数学分析/数学分析.md",
+    "Markdown笔记/进阶用法.md",
     "专业课学习/离散数学/数理逻辑.md",
+    "专业课学习/数学分析/数学分析.md",
     "Markdown笔记/基础用法.md",
     "专业课学习/离散数学/0.数理逻辑.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-18.md",
@@ -199,7 +200,6 @@
     "专业课学习/数学分析/draw",
     "专业课学习/数学分析",
     "Bughunter-report/media/github404.jpg",
-    "Markdown笔记/进阶用法.md",
     "单词.md",
     "README.md",
     "专业课学习/数学分析.md",
