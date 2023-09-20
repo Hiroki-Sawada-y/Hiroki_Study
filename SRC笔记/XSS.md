@@ -1,9 +1,8 @@
-
 ```dataviewjs
 let tableData = [];
 
 // 获取具有标签 #idor 的文件路径
-for (let note of dv.pagePaths('"Bughunter-report" and #idor')) {
+for (let note of dv.pagePaths('"Bughunter-report" and #xss')) {
     dv.io.load(note).then((fileContent) => {
         if (fileContent !== undefined) {
             // 将文件内容按行分割成数组
@@ -20,7 +19,7 @@ for (let note of dv.pagePaths('"Bughunter-report" and #idor')) {
             // 遍历每一行文本
             for (let i = 0; i < lines.length; i++) {
                 let line = lines[i];
-                if (line.startsWith('## ') && lines[i + 1] && lines[i + 1].includes('#idor')) {
+                if (line.startsWith('## ') && lines[i + 1] && lines[i + 1].includes('#xss')) {
                     // 如果是满足条件的二级标题，将其作为 "Title"
                     title = line.replace('## ', '');
                     continue;
@@ -49,7 +48,7 @@ for (let note of dv.pagePaths('"Bughunter-report" and #idor')) {
                 }
 
                 // 判断是否推送数据
-                if ((lines[i+1].startsWith('## ') && lines[i + 2] && lines[i + 2].includes('#idor')) || (i === lines.length - 2)) {
+                if ((lines[i+1].startsWith('## ') && lines[i + 2] && lines[i + 2].includes('#xss')) || (i === lines.length - 2)) {
                     // 将标题和内容添加到表格数据
                     tableData.push([Markdown, title, summaryContent.trim(), stepContent.trim(), impactContent.trim()]);
                     title = ''; // 存储二级标题作为 "Title"

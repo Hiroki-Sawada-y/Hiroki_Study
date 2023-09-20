@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SRC笔记/IDOR && AC Bugs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -161,8 +161,9 @@
   },
   "active": "f83a4df16fc51723",
   "lastOpenFiles": [
-    "Bughunter-report/2023-09/2023-09-19.md",
+    "SRC笔记/XSS.md",
     "SRC笔记/IDOR && AC Bugs.md",
+    "Bughunter-report/2023-09/2023-09-19.md",
     "Markdown笔记/进阶用法.md",
     "Markdown笔记/基础用法.md",
     "摘录_感悟/书籍/《你也走了很远的路吧》.md",
@@ -189,7 +190,6 @@
     "Bughunter-report/media/twitter-idor-mrbeast.png",
     "Bughunter-report/2023-09/2023-09-13.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-16.md",
-    "摘录_感悟/效率管理/OKR/week1/2023-09-18.md",
     "专业课学习/离散数学/media",
     "专业课学习/离散数学",
     "专业课学习/数学分析",
