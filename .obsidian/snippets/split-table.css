@@ -1,0 +1,18 @@
+/* 让表格自动适应屏幕大小 */
+table {
+    width: 100%;
+    max-width: 100%;
+}
+
+/* 字体自动换行 */
+table td {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+}
+
+/* 为表头添加背景色和字体颜色 */
+table th {
+    background-color: #f0f0f0; /* 表头背景色 */
+    color: #333; /* 表头字体颜色 */
+}

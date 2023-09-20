@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "afacb3ec8c016a17",
+        "id": "9cb541f9778da0ba",
         "type": "tabs",
         "children": [
           {
-            "id": "c8a322134bb9734e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SRC笔记/IDOR && AC Bugs.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5587e8dfeb8c0638",
+            "id": "f83a4df16fc51723",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#xss",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               }
@@ -155,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,40 +155,42 @@
       "daily-notes:打开/创建今天的日记": false,
       "workspaces:管理工作区布局": false,
       "pdf-to-markdown-plugin:PDF to Markdown": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "5587e8dfeb8c0638",
+  "active": "f83a4df16fc51723",
   "lastOpenFiles": [
     "SRC笔记/IDOR && AC Bugs.md",
-    "Bughunter-report/2023-09/2023-09-19.md",
-    "Bughunter-report/2023-09/2023-09-10.md",
-    "Bughunter-report/2023-09/2023-09-18.md",
-    "README.md",
-    "SRC笔记",
-    "单词.md",
+    "Markdown笔记/进阶用法.md",
+    "Markdown笔记/基础用法.md",
     "摘录_感悟/书籍/《你也走了很远的路吧》.md",
-    "摘录_感悟/效率管理/OKR/week1/2023-09-19.md",
-    "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
-    "摘录_感悟/效率管理/网安项目/0.概述.md",
     "摘录_感悟/书籍/《随笔》.md",
     "摘录_感悟/书籍/《我的奋斗》.md",
     "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
+    "draw/autostudy.md",
+    "Bughunter-report/2023-09/2023-09-11.md",
+    "Bughunter-report/2023-09/2023-09-10.md",
+    "Bughunter-report/2023-09/2023-09-19.md",
+    "README.md",
+    "SRC笔记/1.cs.md",
+    "SRC笔记/split-table.css",
+    "Web安全基础/0.网络基础.md",
+    "SRC笔记/idor.md",
+    "Bughunter-report/xss.md",
+    "Bughunter-report/2023-09/2023-09-12.md",
+    "Bughunter-report/2023-09/2023-09-18.md",
+    "SRC笔记",
+    "单词.md",
+    "摘录_感悟/效率管理/OKR/week1/2023-09-19.md",
+    "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
+    "摘录_感悟/效率管理/网安项目/0.概述.md",
     "摘录_感悟/书籍/《离开前请叫醒我》.md",
     "Bughunter-report/media/twitter-idor-mrbeast.png",
     "Bughunter-report/2023-09/2023-09-13.md",
-    "Bughunter-report/2023-09/2023-09-12.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-16.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-18.md",
-    "摘录_感悟/效率管理/OKR/module.md",
-    "专业课学习/数学分析/14. 多元函数微分学.md",
-    "专业课学习/数学分析/13.高维欧式空间与多元连续函数.md",
-    "Markdown笔记/进阶用法.md",
-    "Markdown笔记/基础用法.md",
-    "Web安全基础/0.网络基础.md",
-    "专业课学习/离散数学/数理逻辑.md",
     "专业课学习/离散数学/media",
-    "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
     "专业课学习/离散数学",
     "专业课学习/数学分析",
     "专业课学习/常微分方程",
@@ -209,7 +199,6 @@
     "Bughunter-report/media/github404.jpg",
     "专业课学习",
     "pdf/单词.pdf",
-    "pdf/我的奋斗.pdf",
     "Bughunter-report/media/bypass-20230911.jpg",
     "应急响应/media/awk-f.png"
   ]
