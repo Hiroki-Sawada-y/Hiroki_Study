@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-19.md",
-                "mode": "preview",
+                "file": "摘录_感悟/书籍/《你也走了很远的路吧》.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "189b82bc917f3d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "摘录_感悟/书籍/《随笔》.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idor",
+                "query": "tag:#Access_Control_Bug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-19.md",
+                "file": "摘录_感悟/书籍/《随笔》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-19.md",
+                "file": "摘录_感悟/书籍/《随笔》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-19.md"
+                "file": "摘录_感悟/书籍/《随笔》.md"
               }
             }
           }
@@ -157,10 +170,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fa893e256d073bd9",
+  "active": "189b82bc917f3d74",
   "lastOpenFiles": [
-    "Bughunter-report/2023-09/2023-09-18.md",
+    "摘录_感悟/书籍/《我的奋斗》.md",
+    "摘录_感悟/书籍/《随笔》.md",
+    "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
+    "摘录_感悟/书籍/《你也走了很远的路吧》.md",
+    "摘录_感悟/书籍/《离开前请叫醒我》.md",
     "Bughunter-report/2023-09/2023-09-19.md",
+    "Bughunter-report/2023-09/2023-09-10.md",
+    "Bughunter-report/media/twitter-idor-mrbeast.png",
+    "Bughunter-report/2023-09/2023-09-18.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-19.md",
     "Bughunter-report/2023-09/2023-09-13.md",
     "Bughunter-report/2023-09/2023-09-12.md",
@@ -171,11 +191,9 @@
     "专业课学习/数学分析/13.高维欧式空间与多元连续函数.md",
     "Markdown笔记/进阶用法.md",
     "Markdown笔记/基础用法.md",
-    "Bughunter-report/2023-09/2023-09-10.md",
     "单词.md",
     "Web安全基础/0.网络基础.md",
     "专业课学习/离散数学/数理逻辑.md",
-    "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
     "README.md",
     "专业课学习/离散数学/media",
     "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
@@ -185,10 +203,6 @@
     "专业课学习/常微分方程/0.常微分方程的基本概念.md",
     "专业课学习/数学分析",
     "专业课学习/常微分方程",
-    "draw/autosrc.md",
-    "draw/autostudy.md",
-    "draw/autoshell.md",
-    "专业课学习/数学分析/多元函数的极限与连续性.md",
     "专业课学习/数学分析/draw",
     "专业课学习/数学分析",
     "Bughunter-report/media/github404.jpg",
