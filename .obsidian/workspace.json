@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cbd6ef2196a68895",
+        "id": "e9f41221094983ea",
         "type": "tabs",
         "children": [
           {
-            "id": "fa893e256d073bd9",
+            "id": "aecd349dbf3aead2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "摘录_感悟/书籍/《你也走了很远的路吧》.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "189b82bc917f3d74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "摘录_感悟/书籍/《随笔》.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘录_感悟/书籍/《随笔》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "摘录_感悟/书籍/《随笔》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "摘录_感悟/书籍/《随笔》.md"
+                "file": "单词.md"
               }
             }
           }
@@ -170,18 +151,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "189b82bc917f3d74",
+  "active": "d444b7c5061a83cf",
   "lastOpenFiles": [
-    "摘录_感悟/书籍/《我的奋斗》.md",
-    "摘录_感悟/书籍/《随笔》.md",
-    "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
     "摘录_感悟/书籍/《你也走了很远的路吧》.md",
+    "摘录_感悟/效率管理/OKR/week1/2023-09-19.md",
+    "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
+    "摘录_感悟/效率管理/网安项目/0.概述.md",
+    "摘录_感悟/书籍/《随笔》.md",
+    "摘录_感悟/书籍/《我的奋斗》.md",
+    "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
     "摘录_感悟/书籍/《离开前请叫醒我》.md",
     "Bughunter-report/2023-09/2023-09-19.md",
     "Bughunter-report/2023-09/2023-09-10.md",
     "Bughunter-report/media/twitter-idor-mrbeast.png",
     "Bughunter-report/2023-09/2023-09-18.md",
-    "摘录_感悟/效率管理/OKR/week1/2023-09-19.md",
     "Bughunter-report/2023-09/2023-09-13.md",
     "Bughunter-report/2023-09/2023-09-12.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-16.md",
@@ -199,8 +182,6 @@
     "Web安全基础/1.后端漏洞/SQL注入/SQL注入基础.md",
     "专业课学习/离散数学/0.数理逻辑.md",
     "专业课学习/离散数学",
-    "摘录_感悟/效率管理/OKR/week1/week 1.md",
-    "专业课学习/常微分方程/0.常微分方程的基本概念.md",
     "专业课学习/数学分析",
     "专业课学习/常微分方程",
     "专业课学习/数学分析/draw",
