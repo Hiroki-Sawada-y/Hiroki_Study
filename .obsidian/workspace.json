@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-19.md",
+                "file": "SRC笔记/IDOR && AC Bugs.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-19.md",
+                "file": "SRC笔记/IDOR && AC Bugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-19.md",
+                "file": "SRC笔记/IDOR && AC Bugs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-19.md"
+                "file": "SRC笔记/IDOR && AC Bugs.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "f83a4df16fc51723",
   "lastOpenFiles": [
+    "Bughunter-report/2023-09/2023-09-19.md",
     "SRC笔记/IDOR && AC Bugs.md",
     "Markdown笔记/进阶用法.md",
     "Markdown笔记/基础用法.md",
@@ -171,7 +172,6 @@
     "draw/autostudy.md",
     "Bughunter-report/2023-09/2023-09-11.md",
     "Bughunter-report/2023-09/2023-09-10.md",
-    "Bughunter-report/2023-09/2023-09-19.md",
     "README.md",
     "SRC笔记/1.cs.md",
     "SRC笔记/split-table.css",

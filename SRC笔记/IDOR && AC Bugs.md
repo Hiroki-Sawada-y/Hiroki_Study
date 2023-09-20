@@ -8,7 +8,7 @@ for (let note of dv.pagePaths('"Bughunter-report" and #idor')) {
         if (fileContent !== undefined) {
             // 将文件内容按行分割成数组
             let lines = fileContent.split('\n');
-				let Markdown = note
+            let Markdown = note
             let title = ''; // 存储二级标题作为 "Title"
             let summaryContent = '';
             let stepContent = '';
@@ -23,7 +23,14 @@ for (let note of dv.pagePaths('"Bughunter-report" and #idor')) {
                 if (line.startsWith('## ') && lines[i + 1] && lines[i + 1].includes('#idor')) {
                     // 如果是满足条件的二级标题，将其作为 "Title"
                     title = line.replace('## ', '');
-                    currentSection='';
+
+                   
+
+                    // 重置内容和三级标题
+                    summaryContent = '';
+                    stepContent = '';
+                    impactContent = '';
+                    currentSection = '';
                 } else if (line.startsWith('### Summary')) {
                     currentSection = 'Summary';
                     summaryContent = '';
@@ -33,11 +40,12 @@ for (let note of dv.pagePaths('"Bughunter-report" and #idor')) {
                 } else if (line.startsWith('### Impact')) {
                     currentSection = 'Impact';
                     impactContent = '';
-                }  else if (line.startsWith('### ')) { 
-                // 其他三级标题，跳过处理 
-	                currentSection = '';
-	            }
-                 // 在此处将处理内容的部分与行同级
+                } else if (line.startsWith('### ')) { 
+                    // 其他三级标题，跳过处理 
+                    currentSection = '';
+                }
+                
+                // 在此处将处理内容的部分与行同级
                 if (currentSection === 'Summary') {
                     summaryContent += line + '\n';
                 } else if (currentSection === 'Step') {
@@ -46,16 +54,11 @@ for (let note of dv.pagePaths('"Bughunter-report" and #idor')) {
                     impactContent += line + '\n';
                 }
             }
-
-            // 将标题和内容添加到表格数据
-            if (title) {
-                tableData.push([Markdown, title, summaryContent.trim(), stepContent.trim(), impactContent.trim()]);
-            }
         }
     });
 }
 
-// 创建包含四列的表格，"Title"、"Summary"、"Step" 和 "Impact"
+// 创建包含四列的表格，"Markdown","Title", "Summary", "Step" 和 "Impact"
 setTimeout(() => {
     dv.table(["Markdown","Title", "Summary", "Step", "Impact"], tableData);
 }, 1000); // 使用适当的延迟时间等待异步操作完成
