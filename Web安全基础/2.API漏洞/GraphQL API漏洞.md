@@ -1,4 +1,3 @@
-
 ## [什么是GraphQL?](https://portswigger.net/web-security/graphql/what-is-graphql)
 > GraphQL是一种API查询语言,GraphQL服务定义了一个合约，客户端可以通过它与服务器进行通信。客户端不需要知道数据驻留在哪里。相反，客户端向GraphQL服务器发送查询，该服务器从相关位置获取数据。
 ### schema

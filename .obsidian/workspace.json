@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRC笔记/XSS.md",
-                "mode": "source",
+                "file": "Web安全基础/3.逻辑漏洞/业务逻辑漏洞.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SRC笔记/XSS.md",
+                "file": "Web安全基础/3.逻辑漏洞/业务逻辑漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SRC笔记/XSS.md",
+                "file": "Web安全基础/3.逻辑漏洞/业务逻辑漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SRC笔记/XSS.md"
+                "file": "Web安全基础/3.逻辑漏洞/业务逻辑漏洞.md"
               }
             }
           }
@@ -160,23 +160,31 @@
   },
   "active": "fb6180c6f2e03074",
   "lastOpenFiles": [
-    "SRC笔记/Race condition.md",
+    "Web安全基础/media/Appsec-Modern-copy.md",
+    "Web安全基础/media/logic-lab-1.3.png",
+    "Web安全基础/3.逻辑漏洞/业务逻辑漏洞.md",
+    "Web安全基础/media/logic-lab-1.2.png",
+    "Web安全基础/media/logic-lab-1.1.png",
+    "Bughunter-report/media/bypass-20230911.jpg",
+    "Bughunter-report/media/race-hackone-money.png",
+    "Bughunter-report/media/race-gard-id.png",
+    "Bughunter-report/media/twitter-idor-mrbeast.png",
+    "Web安全基础/3.逻辑漏洞/条件竞争漏洞.md",
+    "Web安全基础/media/graphlql-bug-money.png",
+    "README.md",
+    "Bughunter-report/Race Condition/2023-09-21.md",
+    "Web安全基础/2.API漏洞/GraphQL API漏洞.md",
     "SRC笔记/IDOR && AC Bugs.md",
+    "SRC笔记/XSS.md",
+    "SRC笔记/Race condition.md",
     "Bughunter-report/Top Business Logic reports/2023-09-21.md",
     "Bughunter-report/IDOR/2023-09-19.md",
-    "SRC笔记/XSS.md",
     "Bughunter-report/IDOR/2023-09-18.md",
     "Bughunter-report/Subdomain Takeover/2023-09-21.md",
-    "Bughunter-report/Race Condition/2023-09-21.md",
-    "Bughunter-report/media/bypass-20230911.jpg",
     "Bughunter-report/media/github404.jpg",
-    "Bughunter-report/media/race-gard-id.png",
-    "Bughunter-report/media/race-hackone-money.png",
-    "Bughunter-report/media/twitter-idor-mrbeast.png",
     "Bughunter-report/Tips&&bypass/Tips.md",
     "Markdown笔记/进阶用法.md",
     "Markdown笔记/基础用法.md",
-    "README.md",
     "Bughunter-report/2023-09/2023-09-10.md",
     "Bughunter-report/Top Business Logic reports",
     "Bughunter-report/2023-09/2023-09-11.md",
@@ -185,22 +193,17 @@
     "Bughunter-report/CSRF/2023-09-21.md",
     "Bughunter-report/CSRF",
     "Bughunter-report/Tips&&bypass/bypass.md",
-    "Web安全基础/3.逻辑漏洞/条件竞争漏洞.md",
     "Web安全基础/0.网络基础",
     "Web安全基础/3.逻辑漏洞",
     "Web安全基础/0.网络基础/0.网络基础.md",
     "Bughunter-report/Tips&&bypass",
     "Bughunter-report/2023-09/未命名",
-    "Web安全基础/media/Appsec-Modern-copy.md",
     "Web安全基础/media/Appsec-Modern-copy.pdf",
-    "Web安全基础/2.API漏洞/GraphQL API漏洞.md",
     "Bughunter-report/XSS/2023-09-21.md",
     "Bughunter-report/Race Condition",
     "Bughunter-report/XSS",
     "Bughunter-report/2023-09/2023-09-12.md",
     "CTF/PHP-RCE.md",
-    "Web安全基础/media/graphlql-bug-money.png",
-    "draw/autosrc.md",
     "应急响应/media/awk-f.png"
   ]
 }
