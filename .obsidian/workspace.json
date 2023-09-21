@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bughunter-report/IDOR/2023-09-19.md",
+                "file": "SRC笔记/XSS.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bughunter-report/IDOR/2023-09-19.md",
+                "file": "SRC笔记/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bughunter-report/IDOR/2023-09-19.md",
+                "file": "SRC笔记/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bughunter-report/IDOR/2023-09-19.md"
+                "file": "SRC笔记/XSS.md"
               }
             }
           }
@@ -160,12 +160,13 @@
   },
   "active": "fb6180c6f2e03074",
   "lastOpenFiles": [
-    "SRC笔记/IDOR && AC Bugs.md",
-    "Bughunter-report/IDOR/2023-09-18.md",
     "SRC笔记/Race condition.md",
-    "Bughunter-report/Subdomain Takeover/2023-09-21.md",
+    "SRC笔记/IDOR && AC Bugs.md",
+    "Bughunter-report/Top Business Logic reports/2023-09-21.md",
     "Bughunter-report/IDOR/2023-09-19.md",
     "SRC笔记/XSS.md",
+    "Bughunter-report/IDOR/2023-09-18.md",
+    "Bughunter-report/Subdomain Takeover/2023-09-21.md",
     "Bughunter-report/Race Condition/2023-09-21.md",
     "Bughunter-report/media/bypass-20230911.jpg",
     "Bughunter-report/media/github404.jpg",
@@ -176,7 +177,6 @@
     "Markdown笔记/进阶用法.md",
     "Markdown笔记/基础用法.md",
     "README.md",
-    "Bughunter-report/Top Business Logic reports/2023-09-21.md",
     "Bughunter-report/2023-09/2023-09-10.md",
     "Bughunter-report/Top Business Logic reports",
     "Bughunter-report/2023-09/2023-09-11.md",
