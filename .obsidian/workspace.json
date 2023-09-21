@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "769ef35b30869ab0",
+        "id": "eea28d45ed886a3d",
         "type": "tabs",
         "children": [
           {
-            "id": "826ae225641cd2f2",
+            "id": "705d1e908f1e324c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web安全基础/条件竞争漏洞.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 299.50358963012695
   },
   "right": {
     "id": "cec311729c090cba",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web安全基础/条件竞争漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web安全基础/条件竞争漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web安全基础/条件竞争漏洞.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,19 +150,27 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "826ae225641cd2f2",
+  "active": "705d1e908f1e324c",
   "lastOpenFiles": [
+    "Bughunter-report/Top Business Logic reports/2023-09-21.md",
     "Bughunter-report/2023-09/2023-09-10.md",
+    "Bughunter-report/Top Business Logic reports",
     "Bughunter-report/2023-09/2023-09-11.md",
+    "Bughunter-report/2023-09/2023-09-13.md",
+    "Bughunter-report/Subdomain Takeover/2023-09-21.md",
+    "Bughunter-report/Subdomain Takeover",
+    "Bughunter-report/CSRF/2023-09-21.md",
+    "Bughunter-report/CSRF",
     "Bughunter-report/Tips&&bypass/Tips.md",
     "Bughunter-report/Tips&&bypass/bypass.md",
     "Bughunter-report/IDOR/2023-09-18.md",
+    "Web安全基础/3.逻辑漏洞/条件竞争漏洞.md",
+    "Web安全基础/0.网络基础",
+    "Web安全基础/3.逻辑漏洞",
+    "Web安全基础/0.网络基础/0.网络基础.md",
     "Bughunter-report/Tips&&bypass",
-    "Bughunter-report/2023-09/2023-09-13.md",
     "Bughunter-report/2023-09/未命名",
     "Bughunter-report/Race Condition/2023-09-21.md",
-    "Web安全基础/0.网络基础.md",
-    "Web安全基础/条件竞争漏洞.md",
     "Web安全基础/media/Appsec-Modern-copy.md",
     "Web安全基础/media/Appsec-Modern-copy.pdf",
     "Web安全基础/2.API漏洞/GraphQL API漏洞.md",
@@ -183,13 +183,8 @@
     "Bughunter-report/media/race-gard-id.png",
     "Bughunter-report/Race Condition",
     "Bughunter-report/XSS",
-    "Bughunter-report/IDOR",
     "Bughunter-report/2023-09/2023-09-12.md",
     "CTF/PHP-RCE.md",
-    "CTF/WP",
-    "CTF",
-    "Web安全基础/2.API漏洞",
-    "Web安全基础/media",
     "Web安全基础/media/graphlql-bug-money.png",
     "Bughunter-report/media/twitter-idor-mrbeast.png",
     "Bughunter-report/media/bypass-20230911.jpg",
@@ -198,9 +193,6 @@
     "draw/autostudy.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-21.md",
     "Markdown笔记/进阶用法.md",
-    "Markdown笔记/基础用法.md",
-    "摘录_感悟/书籍/《你也走了很远的路吧》.md",
-    "摘录_感悟/书籍/《随笔》.md",
     "Bughunter-report/media/github404.jpg",
     "应急响应/media/awk-f.png"
   ]
