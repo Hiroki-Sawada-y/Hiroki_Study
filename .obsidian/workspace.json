@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRC笔记/IDOR && AC Bugs.md",
+                "file": "Web安全基础/0.网络基础.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bc90420c80ae95cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web安全基础/GraphQL API漏洞.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SRC笔记/IDOR && AC Bugs.md",
+                "file": "Web安全基础/GraphQL API漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SRC笔记/IDOR && AC Bugs.md",
+                "file": "Web安全基础/GraphQL API漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SRC笔记/IDOR && AC Bugs.md"
+                "file": "Web安全基础/GraphQL API漏洞.md"
               }
             }
           }
@@ -142,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,37 +171,39 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "f83a4df16fc51723",
+  "active": "bc90420c80ae95cb",
   "lastOpenFiles": [
-    "SRC笔记/XSS.md",
-    "SRC笔记/IDOR && AC Bugs.md",
+    "Web安全基础/media",
+    "Web安全基础/media/graphlql-bug-money.png",
+    "Bughunter-report/media/twitter-idor-mrbeast.png",
+    "Bughunter-report/media/bypass-20230911.jpg",
+    "Web安全基础/GraphQL API漏洞.md",
+    "Web安全基础/0.网络基础.md",
+    "draw/autosrc.md",
+    "draw/autoshell.md",
+    "draw/autostudy.md",
+    "Bughunter-report/2023-09/2023-09-10.md",
+    "Bughunter-report/2023-09/2023-09-18.md",
     "Bughunter-report/2023-09/2023-09-19.md",
+    "Bughunter-report/2023-09/2023-09-11.md",
+    "Bughunter-report/2023-09/2023-09-12.md",
+    "Bughunter-report/2023-09/2023-09-13.md",
+    "摘录_感悟/效率管理/OKR/week1/2023-09-21.md",
+    "SRC笔记/IDOR && AC Bugs.md",
+    "SRC笔记/XSS.md",
     "Markdown笔记/进阶用法.md",
     "Markdown笔记/基础用法.md",
     "摘录_感悟/书籍/《你也走了很远的路吧》.md",
     "摘录_感悟/书籍/《随笔》.md",
     "摘录_感悟/书籍/《我的奋斗》.md",
     "摘录_感悟/书籍/《若为自由故--自由软件之父理查德·斯托曼传》.md",
-    "draw/autostudy.md",
-    "Bughunter-report/2023-09/2023-09-11.md",
-    "Bughunter-report/2023-09/2023-09-10.md",
     "README.md",
     "SRC笔记/1.cs.md",
     "SRC笔记/split-table.css",
-    "Web安全基础/0.网络基础.md",
     "SRC笔记/idor.md",
     "Bughunter-report/xss.md",
-    "Bughunter-report/2023-09/2023-09-12.md",
-    "Bughunter-report/2023-09/2023-09-18.md",
     "SRC笔记",
     "单词.md",
-    "摘录_感悟/效率管理/OKR/week1/2023-09-19.md",
-    "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
-    "摘录_感悟/效率管理/网安项目/0.概述.md",
-    "摘录_感悟/书籍/《离开前请叫醒我》.md",
-    "Bughunter-report/media/twitter-idor-mrbeast.png",
-    "Bughunter-report/2023-09/2023-09-13.md",
-    "摘录_感悟/效率管理/OKR/week1/2023-09-16.md",
     "专业课学习/离散数学/media",
     "专业课学习/离散数学",
     "专业课学习/数学分析",
@@ -199,7 +213,6 @@
     "Bughunter-report/media/github404.jpg",
     "专业课学习",
     "pdf/单词.pdf",
-    "Bughunter-report/media/bypass-20230911.jpg",
     "应急响应/media/awk-f.png"
   ]
 }
