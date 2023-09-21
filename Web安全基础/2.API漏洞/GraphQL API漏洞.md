@@ -80,3 +80,4 @@ query myGetProductQuery {
 ### Paper
 [# GraphQL API vulnerabilities](https://portswigger.net/web-security/graphql)
 [# KCon 2022 议题分享：自动化 API 漏洞挖掘](https://paper.seebug.org/1964/)
+[# hackone报告](https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPGRAPHQL.md)

@@ -1,13 +1,13 @@
 ```dataviewjs
 let tableData = [];
 
-// 获取具有标签 #idor 的文件路径
+// 获取具有标签 #xss 的文件路径
 for (let note of dv.pagePaths('"Bughunter-report" and #xss')) {
     dv.io.load(note).then((fileContent) => {
         if (fileContent !== undefined) {
             // 将文件内容按行分割成数组
             let lines = fileContent.split('\n');
-            let Markdown = note
+            let Markdown = dv.fileLink(note)
             let title = ''; // 存储二级标题作为 "Title"
             let summaryContent = '';
             let stepContent = '';

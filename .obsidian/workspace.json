@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9cb541f9778da0ba",
+        "id": "2d52791afdda1de9",
         "type": "tabs",
         "children": [
           {
-            "id": "f83a4df16fc51723",
+            "id": "9a97a79505aa27e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web安全基础/0.网络基础.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bc90420c80ae95cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bughunter-report/2023-09/2023-09-10.md",
-                "mode": "source",
+                "file": "SRC笔记/IDOR && AC Bugs.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#xss",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-10.md",
+                "file": "SRC笔记/IDOR && AC Bugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-10.md",
+                "file": "SRC笔记/IDOR && AC Bugs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bughunter-report/2023-09/2023-09-10.md"
+                "file": "SRC笔记/IDOR && AC Bugs.md"
               }
             }
           }
@@ -171,11 +158,28 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "bc90420c80ae95cb",
+  "active": "9a97a79505aa27e5",
   "lastOpenFiles": [
-    "SRC笔记/XSS.md",
+    "Bughunter-report/IDOR/2023-09-18.md",
     "SRC笔记/IDOR && AC Bugs.md",
+    "SRC笔记/Race condition.md",
+    "SRC笔记/XSS.md",
+    "Bughunter-report/IDOR/2023-09-19.md",
+    "Bughunter-report/Race Condition/2023-09-21.md",
+    "Bughunter-report/2023-09/2023-09-11.md",
+    "Bughunter-report/2023-09/2023-09-13.md",
+    "Bughunter-report/XSS/2023-09-21.md",
+    "Bughunter-report/2023-09/2023-09-10.md",
+    "Bughunter-report/media/race-hackone-money.png",
+    "Bughunter-report/media/race-gard-id.png",
+    "Bughunter-report/Race Condition",
+    "Bughunter-report/XSS",
+    "Bughunter-report/IDOR",
+    "Bughunter-report/2023-09/2023-09-12.md",
     "Web安全基础/2.API漏洞/GraphQL API漏洞.md",
+    "CTF/PHP-RCE.md",
+    "CTF/WP",
+    "CTF",
     "Web安全基础/0.网络基础.md",
     "Web安全基础/2.API漏洞",
     "Web安全基础/media",
@@ -185,12 +189,6 @@
     "draw/autosrc.md",
     "draw/autoshell.md",
     "draw/autostudy.md",
-    "Bughunter-report/2023-09/2023-09-10.md",
-    "Bughunter-report/2023-09/2023-09-18.md",
-    "Bughunter-report/2023-09/2023-09-19.md",
-    "Bughunter-report/2023-09/2023-09-11.md",
-    "Bughunter-report/2023-09/2023-09-12.md",
-    "Bughunter-report/2023-09/2023-09-13.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-21.md",
     "Markdown笔记/进阶用法.md",
     "Markdown笔记/基础用法.md",
@@ -201,16 +199,8 @@
     "README.md",
     "SRC笔记/1.cs.md",
     "SRC笔记/split-table.css",
-    "SRC笔记/idor.md",
-    "Bughunter-report/xss.md",
     "SRC笔记",
-    "单词.md",
     "专业课学习/离散数学/media",
-    "专业课学习/离散数学",
-    "专业课学习/数学分析",
-    "专业课学习/常微分方程",
-    "专业课学习/数学分析/draw",
-    "专业课学习/数学分析",
     "Bughunter-report/media/github404.jpg",
     "应急响应/media/awk-f.png"
   ]
