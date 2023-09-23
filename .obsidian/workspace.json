@@ -23,9 +23,11 @@
             "id": "bde94c43aff3291d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Java代码审计/Java 开发基础/media/main方法.md"
+                "file": "Java代码审计/Java 开发基础/Java基础.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -36,13 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "Java代码审计/Java 开发基础/Java基础.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,12 +183,14 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "36360e8a36318073",
+  "active": "bde94c43aff3291d",
   "lastOpenFiles": [
-    "Java代码审计/Java 开发基础/media/Drawing 2023-09-23 16.37.49.md",
     "Java代码审计/Java 开发基础/media/main方法.md",
-    "Java代码审计/Java 开发基础/media/s.md",
     "Java代码审计/Java 开发基础/Java基础.md",
+    "Web安全/media/graphlql-bug-money.png",
+    "Web安全/media/Appsec-Modern-copy.md",
+    "Java代码审计/Java 开发基础/media/Drawing 2023-09-23 16.37.49.md",
+    "Java代码审计/Java 开发基础/media/s.md",
     "Java代码审计/Java 开发基础/media",
     "Java代码审计/Java 开发基础/Java EE.md",
     "Java代码审计/Java 安全基础/不安全的反序列化.md",
@@ -209,8 +213,6 @@
     "Web安全/1.后端漏洞/SQL注入/SQL注入基础.md",
     "Web安全/0.网络基础/0.网络基础.md",
     "SRC笔记/Race condition.md",
-    "SRC笔记/XSS.md",
-    "SRC笔记/IDOR && AC Bugs.md",
     "Java代码审计/通用性漏洞审计",
     "Java代码审计/Java 安全基础",
     "Java代码审计/常见漏洞专项审计",
@@ -225,7 +227,6 @@
     "Bughunter-report/media/race-hackone-money.png",
     "Bughunter-report/media/race-gard-id.png",
     "Bughunter-report/media/twitter-idor-mrbeast.png",
-    "Web安全/media/graphlql-bug-money.png",
     "Bughunter-report/media/github404.jpg",
     "Bughunter-report/Top Business Logic reports",
     "应急响应/media/awk-f.png"
