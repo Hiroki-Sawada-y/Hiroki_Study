@@ -6,19 +6,19 @@
 - [ ] 学习完src课程并整理笔记（8/10）
 - [ ] [hackone报告](https://github.com/reddelexc/hackerone-reports) 每个类型15篇（8/10）
 ## 状态指标
-- 学习热情：😎 --> 
-- 身体状态：😢 --> 
-- 精神状态：😒 --> 
+- 学习热情：😭 --> 
+- 身体状态：😭 --> 
+- 精神状态：😭 --> 
 
 ## 本周任务
 
 1. 第一优先级
-	- [ ] p神书籍整理
-	- [ ] src课程学习
+	- [ ] p神书籍整理 + poswier文章 （AC / IDOR / Race）
+	- [ ] src课程学习 + hackone报告 
 	- [ ] 漏洞盒子 漏洞挖掘（把现有的钱提出来）
 2. 第二优先级
-	- [ ] notion接口编写
-	- [ ] 一些计科基础学习补充
+	- [ ] java基础基础学习
+	- [ ] 计算导论 + cs50
 	- [ ] shell![shell](/draw/autoshell)
 	- [ ] study![study](/draw/autostudy)
 
