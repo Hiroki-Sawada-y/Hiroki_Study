@@ -93,7 +93,7 @@ public class RunoobTest {
 
     private int instanceVar = 10 ;    //成员变量：访问修饰符 变量类型 变量名
       
-    private static int staticVar;  // 静态变量：static 变量类型 变量名
+    private static int staticVar;  // 静态变量：访问修饰符 static 变量类型 变量名
     
     public void method(int paramVar) {
         
