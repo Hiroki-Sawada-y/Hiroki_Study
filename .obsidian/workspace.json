@@ -186,6 +186,7 @@
   "active": "bde94c43aff3291d",
   "lastOpenFiles": [
     "Java代码审计/Java 开发基础/media/main方法.md",
+    "Java代码审计/Java 开发基础/media/main方法.png",
     "Java代码审计/Java 开发基础/Java基础.md",
     "Web安全/media/graphlql-bug-money.png",
     "Web安全/media/Appsec-Modern-copy.md",
@@ -228,7 +229,6 @@
     "Bughunter-report/media/race-gard-id.png",
     "Bughunter-report/media/twitter-idor-mrbeast.png",
     "Bughunter-report/media/github404.jpg",
-    "Bughunter-report/Top Business Logic reports",
-    "应急响应/media/awk-f.png"
+    "Bughunter-report/Top Business Logic reports"
   ]
 }
