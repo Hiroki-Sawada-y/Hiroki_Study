@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md",
+                "file": "摘录_感悟/效率管理/OKR/module.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md",
+                "file": "摘录_感悟/效率管理/OKR/module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md",
+                "file": "摘录_感悟/效率管理/OKR/module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md"
+                "file": "摘录_感悟/效率管理/OKR/module.md"
               }
             }
           }
@@ -172,6 +172,8 @@
   },
   "active": "fb6180c6f2e03074",
   "lastOpenFiles": [
+    "摘录_感悟/效率管理/OKR/week1/09-23 -- 09-30.md",
+    "摘录_感悟/效率管理/OKR/module.md",
     "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-16.md",
     "摘录_感悟/效率管理/OKR/week1/2023-09-18.md",
@@ -211,8 +213,6 @@
     "Java代码审计/通用性漏洞审计/富文本编辑器漏洞.md",
     "Java代码审计/通用性漏洞审计/weblogic中间件漏洞.md",
     "Java代码审计/通用性漏洞审计/strust2.md",
-    "Java代码审计/通用性漏洞审计/springboot漏洞.md",
-    "Java代码审计/通用性漏洞审计/Spring SpEL表达式注入.md",
     "Bughunter-report/media/bypass-20230911.jpg",
     "Bughunter-report/media/race-hackone-money.png",
     "Bughunter-report/media/race-gard-id.png",

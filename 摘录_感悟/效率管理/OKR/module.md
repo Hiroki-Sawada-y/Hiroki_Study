@@ -16,14 +16,14 @@
 	- [ ] [邵艾伦](https://www.bilibili.com/cheese/play/ep79805?csource=common_hp_favorite_null&spm_id_from=333.999.0.0) 
 - [ ] 数据结构与算法（C语言算法）：
 	- [ ] [hello 算法](https://www.hello-algo.com/)
+	- [ ] [浙江大学](https://www.icourse163.org/learn/ZJU-93001?tid=1471218491&learnMode=0#/learn/announce)
+	- [ ] [youtobe](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - [ ] 应用软件基础（MATLAB）：
 	- [ ] [基础](https://www.bilibili.com/video/BV13D4y1Q7RS/?share_source=copy_web&vd_source=cb3ded45d35379e8fd250c6b3997251c)
 	- [ ] [进阶](https://www.bilibili.com/video/BV1GJ41137UH/?spm_id_from=333.788.recommend_more_video.0&vd_source=5f4f31ca939fbba01cb0ba2f7b60b9e3)
 ## Hack学习
-- [ ] P神书：前5章+[web安全文档相关知识点](https://websec.readthedocs.io/zh/latest/#)
-	- [ ] 
-	- [ ] 
-	- [ ] 
+- [ ] P神书：
+- [ ] portswigger：
 - [ ] Medium报告： 
 ## 生活
 - [ ] 
