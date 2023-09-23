@@ -95,6 +95,20 @@ public class RunoobTest {
       
     private static int staticVar;  // 静态变量：权限修饰符 static 变量类型 变量名
     
+    /*静态变量 （类变量 Class Var）
+
+	 public class MyClass {  
+	    public static int count = 0;  
+	    // 其他成员变量和方法  
+     }
+   
+	 
+	 MyClass.count = 10; // 通过类名访问  
+	 MyClass obj = new MyClass();  
+	 obj.count = 20; // 通过实例名访问
+    
+    */
+
     public void method(int paramVar) {
         
         int localVar = 40;  // 局部变量：变量类型 变量名
@@ -170,11 +184,14 @@ public class RunoobTest {
 ```java
 a = 20, b = 10
 ```
-### 多变量集合
 
-#### 数组
-#### 对象
-#### 类
+
+
+
+
+## 对象和类
+
+
 ## 控制流程
 
 ### 判断
