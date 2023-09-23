@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java代码审计/Java 开发基础/Java基础.md",
-                "mode": "source",
+                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java代码审计/Java 开发基础/Java基础.md",
+                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java代码审计/Java 开发基础/Java基础.md",
+                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java代码审计/Java 开发基础/Java基础.md"
+                "file": "摘录_感悟/效率管理/OKR/week1/week 1.md"
               }
             }
           }
@@ -172,7 +172,13 @@
   },
   "active": "fb6180c6f2e03074",
   "lastOpenFiles": [
+    "摘录_感悟/效率管理/网安项目/1.SRC学习.md",
+    "摘录_感悟/效率管理/OKR/week1/2023-09-16.md",
+    "摘录_感悟/效率管理/OKR/week1/2023-09-18.md",
+    "摘录_感悟/效率管理/OKR/week1/2023-09-19.md",
+    "摘录_感悟/效率管理/网安项目/0.概述.md",
     "计算机科学/README.md",
+    "Java代码审计/Java 开发基础/Java基础.md",
     "Web安全/0.网络基础/0.网络基础.md",
     "计算机科学/5.数据库",
     "计算机科学/4.数据结构与算法",
@@ -188,7 +194,6 @@
     "Web安全/media/graphlql-bug-money.png",
     "Web安全/media/Appsec-Modern-copy.md",
     "README.md",
-    "Java代码审计/Java 开发基础/Java基础.md",
     "Web安全/2.前端漏洞",
     "Web安全/5.JS逆向",
     "Java代码审计/Java 开发基础/media/main方法.md",
@@ -208,11 +213,6 @@
     "Java代码审计/通用性漏洞审计/strust2.md",
     "Java代码审计/通用性漏洞审计/springboot漏洞.md",
     "Java代码审计/通用性漏洞审计/Spring SpEL表达式注入.md",
-    "Java代码审计/通用性漏洞审计/Shiro反序列化.md",
-    "Java代码审计/通用性漏洞审计/Log4j.md",
-    "Web安全/3.逻辑漏洞/业务逻辑漏洞.md",
-    "Web安全/3.逻辑漏洞/条件竞争漏洞.md",
-    "Web安全/4.API漏洞/GraphQL API漏洞.md",
     "Bughunter-report/media/bypass-20230911.jpg",
     "Bughunter-report/media/race-hackone-money.png",
     "Bughunter-report/media/race-gard-id.png",
