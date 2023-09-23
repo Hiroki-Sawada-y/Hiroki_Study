@@ -74,7 +74,7 @@ query myGetProductQuery {
 10. https://github.com/swisskyrepo/GraphQLmap【GraphQLmap是一个脚本引擎，用于与graphql端点进行交互以进行渗透测试。】
 11. https://github.com/nicholasaleks/CrackQL【CrackQL是一个GraphQL密码暴力破解和模糊实用程序。】
 
-![](media/graphlql-bug-money.png)
+![](../media/graphlql-bug-money.png)
 
 ### Paper
 [# GraphQL API vulnerabilities](https://portswigger.net/web-security/graphql)
