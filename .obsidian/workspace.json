@@ -183,8 +183,10 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "bde94c43aff3291d",
+  "active": "d444b7c5061a83cf",
   "lastOpenFiles": [
+    "Web安全/2.前端漏洞",
+    "Web安全/5.JS逆向",
     "Java代码审计/Java 开发基础/media/main方法.md",
     "Java代码审计/Java 开发基础/Java基础.md",
     "Java代码审计/Java 开发基础/media/main方法.png",
@@ -210,7 +212,7 @@
     "Java代码审计/通用性漏洞审计/Log4j.md",
     "Web安全/3.逻辑漏洞/业务逻辑漏洞.md",
     "Web安全/3.逻辑漏洞/条件竞争漏洞.md",
-    "Web安全/2.API漏洞/GraphQL API漏洞.md",
+    "Web安全/4.API漏洞/GraphQL API漏洞.md",
     "Web安全/1.后端漏洞/SQL注入/SQL注入基础.md",
     "Web安全/0.网络基础/0.网络基础.md",
     "SRC笔记/Race condition.md",
@@ -228,7 +230,6 @@
     "Bughunter-report/media/race-hackone-money.png",
     "Bughunter-report/media/race-gard-id.png",
     "Bughunter-report/media/twitter-idor-mrbeast.png",
-    "Bughunter-report/media/github404.jpg",
-    "Bughunter-report/Top Business Logic reports"
+    "Bughunter-report/media/github404.jpg"
   ]
 }
