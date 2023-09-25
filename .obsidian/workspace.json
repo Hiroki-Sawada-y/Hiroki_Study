@@ -23,11 +23,9 @@
             "id": "bc88e58e57996f91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Web安全/3.逻辑漏洞/访问控制漏洞.md",
-                "mode": "source",
-                "source": true
+                "file": "Web安全/media/ac-robots-tst.png"
               }
             }
           },
@@ -43,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +180,15 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "bc88e58e57996f91",
+  "active": "fb6180c6f2e03074",
   "lastOpenFiles": [
-    "Web安全/media/AC_bugs.png",
+    "Web安全/media/ac-robots-admin.png",
+    "Web安全/media/ac-robots-tst.png",
     "Web安全/3.逻辑漏洞/访问控制漏洞.md",
     "Web安全/3.逻辑漏洞/业务逻辑漏洞.md",
-    "Web安全/media/Drawing 2023-09-25 11.17.52.md",
     "Web安全/3.逻辑漏洞/条件竞争漏洞.md",
+    "Web安全/media/AC_bugs.png",
+    "Web安全/media/Drawing 2023-09-25 11.17.52.md",
     "SRC笔记/IDOR && AC Bugs.md",
     "效率管理/OKR/week1/2023-09-24.md",
     "效率管理/OKR/week1/09-24 -- 10.01.md",
@@ -228,7 +227,6 @@
     "Web安全/media/graphlql-bug-money.png",
     "Java代码审计/Java 开发基础/media/main方法.png",
     "Bughunter-report/media/bypass-20230911.jpg",
-    "Bughunter-report/media/race-hackone-money.png",
-    "Bughunter-report/media/race-gard-id.png"
+    "Bughunter-report/media/race-hackone-money.png"
   ]
 }
