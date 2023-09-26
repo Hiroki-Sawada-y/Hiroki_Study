@@ -173,10 +173,15 @@
   },
   "active": "8aae70974a7f5043",
   "lastOpenFiles": [
-    "Java代码审计/Java 开发基础/Java基础.md",
-    "Web安全/3.逻辑漏洞/业务逻辑漏洞.md",
-    "Web安全/3.逻辑漏洞/访问控制漏洞.md",
+    "Web安全/media/dis关键字.png",
+    "Web安全/media/突破功能限制.png",
+    "Web安全/media/lab1-high-level=logic.png",
+    "Web安全/media/High-level-logic.png",
+    "Web安全/6.WebSockets",
     "Web安全/3.逻辑漏洞/条件竞争漏洞.md",
+    "Web安全/3.逻辑漏洞/访问控制漏洞.md",
+    "Web安全/3.逻辑漏洞/业务逻辑漏洞.md",
+    "Java代码审计/Java 开发基础/Java基础.md",
     "Web安全/media/Buslogic.png",
     "Web安全/media/Bus——logic.md",
     "Web安全/4.API漏洞/GraphQL API漏洞.md",
@@ -213,10 +218,6 @@
     "效率管理/网安项目/1.SRC学习.md",
     "计算机科学/5.数据库",
     "计算机科学/4.数据结构与算法",
-    "计算机科学/3.计算机网络",
-    "计算机科学/2.计算机组成原理",
-    "Web安全/media/logic-lab-1.3.png",
-    "Web安全/media/logic-lab-1.2.png",
-    "Web安全/media/logic-lab-1.1.png"
+    "计算机科学/3.计算机网络"
   ]
 }
