@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bughunter-report/Race Condition/2023-09-26.md",
+                "file": "Web安全/3.逻辑漏洞/2.条件竞争漏洞.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.50358963012695
+    "width": 299.50358963012695,
+    "collapsed": true
   },
   "right": {
     "id": "cec311729c090cba",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bughunter-report/Race Condition/2023-09-26.md",
+                "file": "Web安全/3.逻辑漏洞/2.条件竞争漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bughunter-report/Race Condition/2023-09-26.md",
+                "file": "Web安全/3.逻辑漏洞/2.条件竞争漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bughunter-report/Race Condition/2023-09-26.md"
+                "file": "Web安全/3.逻辑漏洞/2.条件竞争漏洞.md"
               }
             }
           }
@@ -173,8 +174,8 @@
   },
   "active": "8aae70974a7f5043",
   "lastOpenFiles": [
-    "Bughunter-report/Race Condition/2023-09-21.md",
     "Bughunter-report/Race Condition/2023-09-26.md",
+    "Bughunter-report/Race Condition/2023-09-21.md",
     "README.md",
     "SRC笔记/XSS.md",
     "SRC笔记/Race condition.md",
