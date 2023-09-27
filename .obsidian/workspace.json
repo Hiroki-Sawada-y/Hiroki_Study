@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SRC_黑盒/漏洞挖掘/0.环境配置.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "593895accb117101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF/WP/XHU网络安全实验室招新赛(2023)/XHU网络安全实验室招新赛(2023).md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web安全/3.逻辑漏洞/2.条件竞争漏洞.md",
+                "file": "网络安全/3.逻辑漏洞/2.条件竞争漏洞.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.50358963012695,
-    "collapsed": true
+    "width": 299.50358963012695
   },
   "right": {
     "id": "cec311729c090cba",
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web安全/3.逻辑漏洞/2.条件竞争漏洞.md",
+                "file": "CTF/WP/XHU网络安全实验室招新赛(2023)/XHU网络安全实验室招新赛(2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web安全/3.逻辑漏洞/2.条件竞争漏洞.md",
+                "file": "CTF/WP/XHU网络安全实验室招新赛(2023)/XHU网络安全实验室招新赛(2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web安全/3.逻辑漏洞/2.条件竞争漏洞.md"
+                "file": "CTF/WP/XHU网络安全实验室招新赛(2023)/XHU网络安全实验室招新赛(2023).md"
               }
             }
           }
@@ -172,53 +183,53 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "8aae70974a7f5043",
+  "active": "593895accb117101",
   "lastOpenFiles": [
+    "CTF/WP/XHU网络安全实验室招新赛(2023)/pwn1.png",
+    "CTF/WP/XHU网络安全实验室招新赛(2023)/re.png",
+    "CTF/WP/XHU网络安全实验室招新赛(2023)/MD5.png",
+    "CTF/WP/XHU网络安全实验室招新赛(2023)/github.png",
+    "CTF/WP/XHU网络安全实验室招新赛(2023)/header1.png",
+    "CTF/WP/XHU网络安全实验室招新赛(2023)/header.png",
+    "CTF/WP/XHU网络安全实验室招新赛(2023)",
+    "CTF/WP/XHU网络安全实验室招新赛(2023)/front_fetch.png",
+    "CTF/WP/XHU网络安全实验室招新赛(2023)/XHU网络安全实验室招新赛(2023).md",
+    "SRC_黑盒/漏洞挖掘/1.Checklist.md",
+    "SRC_黑盒/漏洞挖掘/0.环境配置.md",
+    "SRC_黑盒/漏洞挖掘",
+    "SRC_黑盒/知识积累",
+    "README.md",
+    "网络安全/7.云安全",
+    "网络安全/3.逻辑漏洞/2.条件竞争漏洞.md",
     "Bughunter-report/Race Condition/2023-09-26.md",
     "Bughunter-report/Race Condition/2023-09-21.md",
-    "README.md",
-    "SRC笔记/XSS.md",
-    "SRC笔记/Race condition.md",
-    "SRC笔记/IDOR && AC Bugs.md",
+    "SRC_黑盒/知识积累/XSS.md",
+    "SRC_黑盒/知识积累/Race condition.md",
+    "SRC_黑盒/知识积累/IDOR && AC Bugs.md",
     "Bughunter-report/Top Business Logic reports/2023-09-21.md",
     "Bughunter-report/media/libwebp-bug.webp",
-    "Web安全/3.逻辑漏洞/0.业务逻辑漏洞.md",
-    "Web安全/3.逻辑漏洞/3.支付安全漏洞.md",
-    "Web安全/3.逻辑漏洞/2.条件竞争漏洞.md",
-    "Web安全/3.逻辑漏洞/1.访问控制漏洞.md",
-    "Web安全/media/多余回显.png",
-    "Web安全/media/dis关键字.png",
-    "Web安全/media/突破功能限制.png",
-    "Web安全/media/lab1-high-level=logic.png",
-    "Web安全/media/High-level-logic.png",
-    "Web安全/6.WebSockets",
+    "网络安全/3.逻辑漏洞/0.业务逻辑漏洞.md",
+    "网络安全/3.逻辑漏洞/3.支付安全漏洞.md",
+    "网络安全/3.逻辑漏洞/1.访问控制漏洞.md",
+    "网络安全/media/多余回显.png",
+    "网络安全/media/dis关键字.png",
+    "网络安全/media/突破功能限制.png",
+    "网络安全/6.WebSockets",
     "Java代码审计/Java 开发基础/Java基础.md",
-    "Web安全/media/Buslogic.png",
     "Web安全/media/Bus——logic.md",
-    "Web安全/4.API漏洞/GraphQL API漏洞.md",
+    "网络安全/4.API漏洞/GraphQL API漏洞.md",
     "效率管理/OKR/week1/2023-09-26.md",
-    "Web安全/media/ac-robots-tst.png",
     "效率管理/OKR/week1/media/未命名.md",
-    "Web安全/media/ac-1-2-dele.png",
-    "Web安全/media/unpredictable URL-js.png",
     "Web安全/media/Drawing 2023-09-25 11.17.52.md",
     "效率管理/OKR/week1/2023-09-24.md",
     "效率管理/OKR/week1/09-24 -- 10.01.md",
     "Bughunter-report/IDOR/2023-09-18.md",
     "Bughunter-report/IDOR/2023-09-25.md",
     "Bughunter-report/IDOR/2023-09-19.md",
-    "Markdown笔记/进阶用法.md",
-    "Markdown笔记/基础用法.md",
-    "CTF/WP/XHU网络安全实验室招新赛(2023).md",
-    "CTF/WP/PHP-RCE(2023-代码审计).md",
     "CTF/专项学习",
     "CTF/WP",
     "AI/吴恩达",
     "AI",
-    "SRC笔记/base.apk",
-    "效率管理/OKR/week1/media",
-    "计算机科学/5.数据库",
-    "计算机科学/4.数据结构与算法",
-    "计算机科学/3.计算机网络"
+    "SRC笔记/base.apk"
   ]
 }
