@@ -23,12 +23,8 @@
             "id": "593895accb117101",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF/WP/XHU网络安全实验室招新赛(2023)/XHU网络安全实验室招新赛(2023).md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -118,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/WP/XHU网络安全实验室招新赛(2023)/XHU网络安全实验室招新赛(2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/WP/XHU网络安全实验室招新赛(2023)/XHU网络安全实验室招新赛(2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CTF/WP/XHU网络安全实验室招新赛(2023)/XHU网络安全实验室招新赛(2023).md"
-              }
+              "state": {}
             }
           }
         ],
