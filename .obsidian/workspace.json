@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRC_黑盒/漏洞挖掘/0.环境配置.md",
+                "file": "SRC_黑盒/漏洞挖掘/1.Checklist/1.业务功能.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "SRC_黑盒/漏洞挖掘/1.Checklist/1.业务功能.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,20 +182,20 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "593895accb117101",
+  "active": "bc88e58e57996f91",
   "lastOpenFiles": [
     "SRC_黑盒/漏洞挖掘/1.Checklist/0.Checklist.md",
     "SRC_黑盒/知识积累/IDOR && AC Bugs.md",
-    "网络安全/3.逻辑漏洞/3.支付安全漏洞.md",
-    "SRC_黑盒/漏洞挖掘/1.Checklist/1.业务功能.md",
-    "SRC_黑盒/知识积累/逻辑漏洞.md",
     "SRC_黑盒/漏洞挖掘/0.环境配置.md",
-    "SRC_黑盒/漏洞挖掘/1.Checklist",
-    "SRC_黑盒/知识积累/XSS.md",
+    "SRC_黑盒/漏洞挖掘/1.Checklist/1.业务功能.md",
     "网络安全/3.逻辑漏洞/2.条件竞争漏洞.md",
+    "SRC_黑盒/知识积累/Race condition.md",
+    "SRC_黑盒/知识积累/逻辑漏洞.md",
+    "SRC_黑盒/知识积累/XSS.md",
+    "网络安全/3.逻辑漏洞/3.支付安全漏洞.md",
+    "SRC_黑盒/漏洞挖掘/1.Checklist",
     "网络安全/3.逻辑漏洞/1.访问控制漏洞.md",
     "网络安全/3.逻辑漏洞/0.业务逻辑漏洞.md",
-    "SRC_黑盒/知识积累/Race condition.md",
     "CTF/WP/XHU网络安全实验室招新赛(2023)/pwn1.png",
     "CTF/WP/XHU网络安全实验室招新赛(2023)/re.png",
     "CTF/WP/XHU网络安全实验室招新赛(2023)/MD5.png",

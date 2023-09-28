@@ -1,8 +1,8 @@
 {
   "accentColor": "",
   "baseFontSize": 26,
-  "cssTheme": "Night Owl",
-  "theme": "system",
+  "cssTheme": "Catppuccin",
+  "theme": "moonstone",
   "interfaceFontFamily": "Comic Sans MS",
   "textFontFamily": "Comic Sans MS",
   "monospaceFontFamily": "Ink Free",
