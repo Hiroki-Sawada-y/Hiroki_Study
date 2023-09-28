@@ -23,8 +23,12 @@
             "id": "593895accb117101",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SRC_黑盒/知识积累/XSS.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SRC_黑盒/知识积累/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SRC_黑盒/知识积累/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SRC_黑盒/知识积累/XSS.md"
+              }
             }
           }
         ],
@@ -177,6 +185,13 @@
   },
   "active": "593895accb117101",
   "lastOpenFiles": [
+    "SRC_黑盒/知识积累/Race condition.md",
+    "SRC_黑盒/知识积累/IDOR && AC Bugs.md",
+    "SRC_黑盒/知识积累/逻辑漏洞.md",
+    "SRC_黑盒/知识积累/XSS.md",
+    "网络安全/3.逻辑漏洞/0.业务逻辑漏洞.md",
+    "SRC_黑盒/漏洞挖掘/1.Checklist.md",
+    "SRC_黑盒/漏洞挖掘/0.环境配置.md",
     "CTF/WP/XHU网络安全实验室招新赛(2023)/pwn1.png",
     "CTF/WP/XHU网络安全实验室招新赛(2023)/re.png",
     "CTF/WP/XHU网络安全实验室招新赛(2023)/MD5.png",
@@ -186,8 +201,6 @@
     "CTF/WP/XHU网络安全实验室招新赛(2023)",
     "CTF/WP/XHU网络安全实验室招新赛(2023)/front_fetch.png",
     "CTF/WP/XHU网络安全实验室招新赛(2023)/XHU网络安全实验室招新赛(2023).md",
-    "SRC_黑盒/漏洞挖掘/1.Checklist.md",
-    "SRC_黑盒/漏洞挖掘/0.环境配置.md",
     "SRC_黑盒/漏洞挖掘",
     "SRC_黑盒/知识积累",
     "README.md",
@@ -195,17 +208,12 @@
     "网络安全/3.逻辑漏洞/2.条件竞争漏洞.md",
     "Bughunter-report/Race Condition/2023-09-26.md",
     "Bughunter-report/Race Condition/2023-09-21.md",
-    "SRC_黑盒/知识积累/XSS.md",
-    "SRC_黑盒/知识积累/Race condition.md",
-    "SRC_黑盒/知识积累/IDOR && AC Bugs.md",
     "Bughunter-report/Top Business Logic reports/2023-09-21.md",
     "Bughunter-report/media/libwebp-bug.webp",
-    "网络安全/3.逻辑漏洞/0.业务逻辑漏洞.md",
     "网络安全/3.逻辑漏洞/3.支付安全漏洞.md",
     "网络安全/3.逻辑漏洞/1.访问控制漏洞.md",
     "网络安全/media/多余回显.png",
     "网络安全/media/dis关键字.png",
-    "网络安全/media/突破功能限制.png",
     "网络安全/6.WebSockets",
     "Java代码审计/Java 开发基础/Java基础.md",
     "Web安全/media/Bus——logic.md",
