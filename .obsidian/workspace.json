@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRC_黑盒/漏洞挖掘/1.Checklist/1.业务功能.md",
-                "mode": "source",
+                "file": "SRC_黑盒/漏洞挖掘/0.环境配置/0.环境配置.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRC_黑盒/漏洞挖掘/1.Checklist/1.业务功能.md",
+                "file": "SRC_黑盒/漏洞挖掘/1.Checklist/2.密码找回.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SRC_黑盒/漏洞挖掘/1.Checklist/1.业务功能.md",
+                "file": "SRC_黑盒/漏洞挖掘/0.环境配置/0.环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SRC_黑盒/漏洞挖掘/1.Checklist/1.业务功能.md",
+                "file": "SRC_黑盒/漏洞挖掘/0.环境配置/0.环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SRC_黑盒/漏洞挖掘/1.Checklist/1.业务功能.md"
+                "file": "SRC_黑盒/漏洞挖掘/0.环境配置/0.环境配置.md"
               }
             }
           }
@@ -182,16 +182,20 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "bc88e58e57996f91",
+  "active": "d444b7c5061a83cf",
   "lastOpenFiles": [
+    "SRC_黑盒/漏洞挖掘/0.环境配置",
     "SRC_黑盒/漏洞挖掘/1.Checklist/0.Checklist.md",
+    "SRC_黑盒/漏洞挖掘/1.Checklist/3.支付接口.md",
+    "SRC_黑盒/漏洞挖掘/1.Checklist/2.密码找回.md",
+    "SRC_黑盒/漏洞挖掘/1.Checklist/1.登录框.md",
     "SRC_黑盒/知识积累/IDOR && AC Bugs.md",
-    "SRC_黑盒/漏洞挖掘/0.环境配置.md",
-    "SRC_黑盒/漏洞挖掘/1.Checklist/1.业务功能.md",
-    "网络安全/3.逻辑漏洞/2.条件竞争漏洞.md",
-    "SRC_黑盒/知识积累/Race condition.md",
+    "SRC_黑盒/漏洞挖掘/0.环境配置/0.环境配置.md",
     "SRC_黑盒/知识积累/逻辑漏洞.md",
+    "SRC_黑盒/知识积累/Race condition.md",
     "SRC_黑盒/知识积累/XSS.md",
+    "SRC_黑盒/README.md",
+    "网络安全/3.逻辑漏洞/2.条件竞争漏洞.md",
     "网络安全/3.逻辑漏洞/3.支付安全漏洞.md",
     "SRC_黑盒/漏洞挖掘/1.Checklist",
     "网络安全/3.逻辑漏洞/1.访问控制漏洞.md",
@@ -222,9 +226,6 @@
     "效率管理/OKR/week1/2023-09-26.md",
     "效率管理/OKR/week1/media/未命名.md",
     "Web安全/media/Drawing 2023-09-25 11.17.52.md",
-    "效率管理/OKR/week1/2023-09-24.md",
-    "效率管理/OKR/week1/09-24 -- 10.01.md",
-    "Bughunter-report/IDOR/2023-09-18.md",
     "CTF/专项学习",
     "CTF/WP",
     "AI/吴恩达",

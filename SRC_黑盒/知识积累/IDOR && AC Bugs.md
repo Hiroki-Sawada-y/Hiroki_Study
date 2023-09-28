@@ -8,6 +8,10 @@
 
 *   Usually it can be found in APIs.
 *   Check the HTTP request that contain unique ID, for example `user_id` or `id`
+*   两个账号，修改id查看信息
+*   id等表示可以从注册，密码找回，用户信息等地方寻找
+*   修改账号信息时查看数据包，修改用户id等参数进行遍历
+*   登录时查看有没有返回账号密码等信息的接口，修改接口id
 
 ### How to exploit
 
