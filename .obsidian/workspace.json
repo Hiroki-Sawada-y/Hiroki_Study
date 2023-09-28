@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -182,7 +182,7 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "d444b7c5061a83cf",
+  "active": "bc88e58e57996f91",
   "lastOpenFiles": [
     "Bughunter/README.md",
     "README.md",
@@ -220,7 +220,7 @@
     "网络安全/media/多余回显.png",
     "网络安全/media/dis关键字.png",
     "网络安全/6.WebSockets",
-    "Java代码审计/Java 开发基础/Java基础.md",
+    "网络安全/9.Java代码审计/Java 开发基础/Java基础.md",
     "Web安全/media/Bus——logic.md",
     "网络安全/4.API漏洞/GraphQL API漏洞.md",
     "效率管理/OKR/week1/2023-09-26.md",

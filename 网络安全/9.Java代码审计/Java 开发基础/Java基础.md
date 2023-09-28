@@ -21,7 +21,7 @@ public class HelloWorld{ //类名： 1. 首字母要大写  2.  源文件名与�
 
 ```
 
-![main方法](./media/main方法.png)
+![main方法](media/main方法.png)
 
 ```bash
 java  HelloWorld.java  // 编译
