@@ -1,7 +1,6 @@
 个人学习笔记 obsidian
 
-## 💵Bughunter
-该部分来自twitter / medium / hackerone的文章   读后笔记整理   侵删  
+
 
 ### Paper
 1. [hackerone-reports](https://github.com/reddelexc/hackerone-reports)  
