@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bughunter/漏洞挖掘/1.Checklist/4.敏感信息泄露.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bughunter/漏洞挖掘/1.Checklist/4.敏感信息泄露.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bughunter/漏洞挖掘/1.Checklist/4.敏感信息泄露.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bughunter/漏洞挖掘/1.Checklist/4.敏感信息泄露.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,13 +158,13 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "d444b7c5061a83cf",
+  "active": "bc88e58e57996f91",
   "lastOpenFiles": [
+    "Bughunter/漏洞挖掘/1.Checklist/4.敏感信息泄露.md",
     "漏洞分析",
     "Bughunter/漏洞挖掘/1.Checklist/3.支付接口.md",
     "Bughunter/漏洞挖掘/1.Checklist/1.登录框.md",
     "Bughunter/漏洞挖掘/1.Checklist/2.密码找回.md",
-    "Bughunter/漏洞挖掘/1.Checklist/4.敏感信息泄露.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-18.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-19.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-25.md",
@@ -204,7 +204,6 @@
     "网络安全/6.WebSockets",
     "网络安全/9.Java代码审计/Java 开发基础/Java基础.md",
     "CTF/专项学习",
-    "CTF/WP",
-    "AI/吴恩达"
+    "CTF/WP"
   ]
 }

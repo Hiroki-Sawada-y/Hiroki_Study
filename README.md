@@ -6,7 +6,7 @@
 1. [hackerone-reports](https://github.com/reddelexc/hackerone-reports)  
 2. [pentester.land](https://pentester.land/writeups/)  
 3. [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
-
+4. [portswigger](https://portswigger.net/)
 ### Video
 1. [Recon for Ethical Hacking渗透测试漏洞赏金](https://mega.nz/folder/CDphRCJB#eBZqSmleyW6Thld_8RbZwQ)
 
@@ -23,9 +23,8 @@
 [（吴恩达）机器学习教程中文笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)  
 [动手学深度学习](https://github.com/d2l-ai/d2l-zh)
 
-## ✈网络安全
 
-### Paper
-1. [portswigger](https://portswigger.net/)
+
+
 
 
