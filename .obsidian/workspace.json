@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/4.API漏洞/GraphQL API漏洞.md",
-                "mode": "preview",
+                "file": "AI/Coursera-ML-AndrewNg-Notes/markdown/1.CS229-LinearAlgebra.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网络安全/4.API漏洞/GraphQL API漏洞.md",
+                "file": "AI/Coursera-ML-AndrewNg-Notes/markdown/1.CS229-LinearAlgebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网络安全/4.API漏洞/GraphQL API漏洞.md",
+                "file": "AI/Coursera-ML-AndrewNg-Notes/markdown/1.CS229-LinearAlgebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络安全/4.API漏洞/GraphQL API漏洞.md"
+                "file": "AI/Coursera-ML-AndrewNg-Notes/markdown/1.CS229-LinearAlgebra.md"
               }
             }
           }
@@ -158,36 +158,38 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "d444b7c5061a83cf",
+  "active": "bc88e58e57996f91",
   "lastOpenFiles": [
-    "AI/Coursera-ML-AndrewNg-Notes/机器学习个人笔记完整版v5.52-A4打印版.pdf",
-    "AI/Coursera-ML-AndrewNg-Notes/srt/纯英文字幕srt.zip",
-    "AI/Coursera-ML-AndrewNg-Notes/srt/中英文字幕srt.zip",
+    "AI/Coursera-ML-AndrewNg-Notes/markdown/2.CS229-Prob.md",
+    "AI/Coursera-ML-AndrewNg-Notes/markdown/1.CS229-LinearAlgebra.md",
     "AI/Coursera-ML-AndrewNg-Notes/srt/README.md",
-    "AI/Coursera-ML-AndrewNg-Notes/srt",
     "AI/Coursera-ML-AndrewNg-Notes/ppt/README.md",
-    "AI/Coursera-ML-AndrewNg-Notes/ppt/Lecture9.pptx",
-    "AI/Coursera-ML-AndrewNg-Notes/ppt/Lecture8.pptx",
-    "AI/Coursera-ML-AndrewNg-Notes/ppt/Lecture6.pptx",
-    "AI/Coursera-ML-AndrewNg-Notes/ppt/Lecture7.pptx",
-    "AI/Coursera-ML-AndrewNg-Notes/ppt/Lecture5.pptx",
-    "AI/Coursera-ML-AndrewNg-Notes/ppt/Lecture4.pptx",
-    "AI/Coursera-ML-AndrewNg-Notes/ppt/Lecture3.pptx",
-    "AI/Coursera-ML-AndrewNg-Notes/markdown/week2.md",
+    "AI/Coursera-ML-AndrewNg-Notes/机器学习个人笔记完整版v5.52-A4打印版.pdf",
+    "AI/Coursera-ML-AndrewNg-Notes/README.md",
+    "AI/Coursera-ML-AndrewNg-Notes/markdown/week10.md",
     "AI/Coursera-ML-AndrewNg-Notes/markdown/week9.md",
-    "AI/Coursera-ML-AndrewNg-Notes/markdown/week8.md",
     "AI/Coursera-ML-AndrewNg-Notes/markdown/week7.md",
+    "AI/Coursera-ML-AndrewNg-Notes/markdown/week8.md",
     "AI/Coursera-ML-AndrewNg-Notes/markdown/week6.md",
     "AI/Coursera-ML-AndrewNg-Notes/markdown/week5.md",
     "AI/Coursera-ML-AndrewNg-Notes/markdown/week4.md",
     "AI/Coursera-ML-AndrewNg-Notes/markdown/week3.md",
-    "AI/Coursera-ML-AndrewNg-Notes/markdown/week10.md",
+    "AI/Coursera-ML-AndrewNg-Notes/markdown/week2.md",
     "AI/Coursera-ML-AndrewNg-Notes/markdown/week1.md",
     "AI/Coursera-ML-AndrewNg-Notes/markdown/SUMMARY.md",
     "AI/Coursera-ML-AndrewNg-Notes/markdown/README.md",
     "AI/Coursera-ML-AndrewNg-Notes/markdown/math.md",
-    "AI/Coursera-ML-AndrewNg-Notes/markdown/2.CS229-Prob.md",
-    "AI/Coursera-ML-AndrewNg-Notes/markdown/1.CS229-LinearAlgebra.md",
+    "AI/Coursera-ML-AndrewNg-Notes/code/ex4-NN back propagation/ex4.pdf",
+    "AI/Coursera-ML-AndrewNg-Notes/code/ex3-neural network/ex3.pdf",
+    "AI/Coursera-ML-AndrewNg-Notes/code/ex3-neural network/向量化标签.png",
+    "AI/Coursera-ML-AndrewNg-Notes/code/ex2-logistic regression/ex2.pdf",
+    "AI/Coursera-ML-AndrewNg-Notes/code/ex1-linear regression/ex1.pdf",
+    "网络安全/4.API漏洞/GraphQL API漏洞.md",
+    "AI/Coursera-ML-AndrewNg-Notes/srt/纯英文字幕srt.zip",
+    "AI/Coursera-ML-AndrewNg-Notes/srt/中英文字幕srt.zip",
+    "AI/Coursera-ML-AndrewNg-Notes/srt",
+    "AI/Coursera-ML-AndrewNg-Notes/ppt/Lecture9.pptx",
+    "AI/Coursera-ML-AndrewNg-Notes/ppt/Lecture8.pptx",
     "AI/Coursera-ML-AndrewNg-Notes/images/zhishixingqiu1.jpg",
     "AI/Coursera-ML-AndrewNg-Notes/images/gongzhong.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/gongzhong.jpg",
@@ -197,14 +199,11 @@
     "AI/Coursera-ML-AndrewNg-Notes/images/ff180f091e9bad9ac185248721437526.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/ff08dcc5b9718aa9c744e13fcc4fd607.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/feddafffd2937841222e6e8e2cfb9401.png",
-    "AI/Coursera-ML-AndrewNg-Notes/images/fed50a4e482cf3aae38afeb368141a97.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/README.md",
     "AI/Coursera-ML-AndrewNg-Notes/docx/README.md",
     "AI/Coursera-ML-AndrewNg-Notes/code/README.md",
-    "AI/Coursera-ML-AndrewNg-Notes/README.md",
     "网络安全/3.逻辑漏洞/3.支付安全漏洞.md",
     "网络安全/3.逻辑漏洞/2.条件竞争漏洞.md",
-    "网络安全/3.逻辑漏洞/1.访问控制漏洞.md",
-    "网络安全/3.逻辑漏洞/0.业务逻辑漏洞.md"
+    "网络安全/3.逻辑漏洞/1.访问控制漏洞.md"
   ]
 }
