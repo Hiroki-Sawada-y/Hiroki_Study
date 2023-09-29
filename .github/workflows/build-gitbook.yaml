@@ -1,4 +1,4 @@
-iname: Launch GitBook deploy workflow
+name: Launch GitBook deploy workflow
 on: push
 
 jobs:
