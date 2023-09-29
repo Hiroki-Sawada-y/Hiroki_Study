@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Coursera-ML-AndrewNg-Notes/README.md",
+                "file": "Bughunter/Bughunter-report/IDOR/2023-09-19.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Coursera-ML-AndrewNg-Notes/README.md",
+                "file": "Bughunter/Bughunter-report/IDOR/2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Coursera-ML-AndrewNg-Notes/README.md",
+                "file": "Bughunter/Bughunter-report/IDOR/2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Coursera-ML-AndrewNg-Notes/README.md"
+                "file": "Bughunter/Bughunter-report/IDOR/2023-09-19.md"
               }
             }
           }
@@ -160,7 +160,12 @@
   },
   "active": "bc88e58e57996f91",
   "lastOpenFiles": [
+    "Bughunter/Bughunter-report/IDOR/2023-09-25.md",
+    "Bughunter/Bughunter-report/IDOR/2023-09-18.md",
+    "Bughunter/Bughunter-report/CSRF/2023-09-21.md",
     "AI/Coursera-ML-AndrewNg-Notes/README.md",
+    "网络安全/11.工控安全",
+    "网络安全/10.PHP代码审计",
     "AI/Coursera-ML-AndrewNg-Notes/srt/README.md",
     "AI/Coursera-ML-AndrewNg-Notes/markdown/1.CS229-LinearAlgebra.md",
     "AI/Coursera-ML-AndrewNg-Notes/images/0a4edcb9c0d0a3812a50b3e95ef3912a.png",
@@ -188,12 +193,10 @@
     "AI/Coursera-ML-AndrewNg-Notes/code/ex3-neural network/ex3.pdf",
     "AI/Coursera-ML-AndrewNg-Notes/code/ex3-neural network/向量化标签.png",
     "AI/Coursera-ML-AndrewNg-Notes/code/ex2-logistic regression/ex2.pdf",
-    "网络安全/4.API漏洞/GraphQL API漏洞.md",
+    "网络安全/04.API漏洞/GraphQL API漏洞.md",
     "AI/Coursera-ML-AndrewNg-Notes/srt/纯英文字幕srt.zip",
     "AI/Coursera-ML-AndrewNg-Notes/srt/中英文字幕srt.zip",
     "AI/Coursera-ML-AndrewNg-Notes/srt",
-    "AI/Coursera-ML-AndrewNg-Notes/ppt/Lecture9.pptx",
-    "AI/Coursera-ML-AndrewNg-Notes/ppt/Lecture8.pptx",
     "AI/Coursera-ML-AndrewNg-Notes/images/zhishixingqiu1.jpg",
     "AI/Coursera-ML-AndrewNg-Notes/images/gongzhong.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/gongzhong.jpg",
@@ -202,8 +205,6 @@
     "AI/Coursera-ML-AndrewNg-Notes/images/ff1db77ec2e83b592bbe1c4153586120.jpg",
     "AI/Coursera-ML-AndrewNg-Notes/images/ff180f091e9bad9ac185248721437526.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/README.md",
-    "网络安全/3.逻辑漏洞/3.支付安全漏洞.md",
-    "网络安全/3.逻辑漏洞/2.条件竞争漏洞.md",
-    "网络安全/3.逻辑漏洞/1.访问控制漏洞.md"
+    "网络安全/03.逻辑漏洞/3.支付安全漏洞.md"
   ]
 }
