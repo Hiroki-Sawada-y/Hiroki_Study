@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bughunter/Bughunter-report/IDOR/2023-09-19.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bughunter/Bughunter-report/IDOR/2023-09-19.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bughunter/Bughunter-report/IDOR/2023-09-19.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bughunter/Bughunter-report/IDOR/2023-09-19.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,6 +160,9 @@
   },
   "active": "bc88e58e57996f91",
   "lastOpenFiles": [
+    "draw/2b74b2674c4044553d41d555084bf62.png",
+    "README.md",
+    "Bughunter/Bughunter-report/IDOR/2023-09-19.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-25.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-18.md",
     "Bughunter/Bughunter-report/CSRF/2023-09-21.md",
@@ -193,7 +196,6 @@
     "AI/Coursera-ML-AndrewNg-Notes/code/ex3-neural network/ex3.pdf",
     "AI/Coursera-ML-AndrewNg-Notes/code/ex3-neural network/向量化标签.png",
     "AI/Coursera-ML-AndrewNg-Notes/code/ex2-logistic regression/ex2.pdf",
-    "网络安全/04.API漏洞/GraphQL API漏洞.md",
     "AI/Coursera-ML-AndrewNg-Notes/srt/纯英文字幕srt.zip",
     "AI/Coursera-ML-AndrewNg-Notes/srt/中英文字幕srt.zip",
     "AI/Coursera-ML-AndrewNg-Notes/srt",
@@ -202,9 +204,6 @@
     "AI/Coursera-ML-AndrewNg-Notes/images/gongzhong.jpg",
     "AI/Coursera-ML-AndrewNg-Notes/images/ffddfddfdfd.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/ffa56adcc217800d71afdc3e0df88378.jpg",
-    "AI/Coursera-ML-AndrewNg-Notes/images/ff1db77ec2e83b592bbe1c4153586120.jpg",
-    "AI/Coursera-ML-AndrewNg-Notes/images/ff180f091e9bad9ac185248721437526.png",
-    "AI/Coursera-ML-AndrewNg-Notes/images/README.md",
-    "网络安全/03.逻辑漏洞/3.支付安全漏洞.md"
+    "AI/Coursera-ML-AndrewNg-Notes/images/ff1db77ec2e83b592bbe1c4153586120.jpg"
   ]
 }
