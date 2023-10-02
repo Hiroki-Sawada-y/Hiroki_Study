@@ -9,7 +9,9 @@
 1. [hackerone-reports](https://github.com/reddelexc/hackerone-reports)  
 2. [pentester.land](https://pentester.land/writeups/)  
 3. [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
-4. [portswigger](https://portswigger.net/)
+4. [portswigger](https://portswigger.net/)\
+5. [Web Hacking + Bug Bounty Tricks](https://github.com/Mehdi0x90/Web_Hacking)
+
 ### Video
 1. [Recon for Ethical Hacking渗透测试漏洞赏金](https://mega.nz/folder/CDphRCJB#eBZqSmleyW6Thld_8RbZwQ)
 
