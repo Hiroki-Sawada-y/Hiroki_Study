@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "效率管理/OKR/week1/2023-10-02.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "效率管理/OKR/week1/2023-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "效率管理/OKR/week1/2023-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "效率管理/OKR/week1/2023-10-02.md"
               }
             }
           }
@@ -158,14 +158,16 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "d444b7c5061a83cf",
+  "active": "bc88e58e57996f91",
   "lastOpenFiles": [
+    "README.md",
+    "效率管理/OKR/week1/2023-10-02.md",
     "效率管理/OKR/week1/media/常微分方程9.24作业.jpg",
     "效率管理/OKR/week1/README.md",
-    "效率管理/OKR/week1/media",
     "效率管理/OKR/week1/2023-09-26.md",
     "效率管理/OKR/week1/2023-09-24.md",
     "效率管理/OKR/week1/09-24 -- 10.01.md",
+    "效率管理/OKR/week1/media",
     "效率管理/网安项目/README.md",
     "效率管理/网安项目/1.SRC学习.md",
     "效率管理/网安项目/0.概述.md",
@@ -177,7 +179,6 @@
     "效率管理/OKR",
     "效率管理",
     "draw/2b74b2674c4044553d41d555084bf62.png",
-    "README.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-19.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-25.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-18.md",
@@ -204,7 +205,6 @@
     "AI/Coursera-ML-AndrewNg-Notes/images/gongzhong.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/gongzhong.jpg",
     "AI/Coursera-ML-AndrewNg-Notes/images/ffddfddfdfd.png",
-    "AI/Coursera-ML-AndrewNg-Notes/images/ffa56adcc217800d71afdc3e0df88378.jpg",
-    "AI/Coursera-ML-AndrewNg-Notes/images/ff1db77ec2e83b592bbe1c4153586120.jpg"
+    "AI/Coursera-ML-AndrewNg-Notes/images/ffa56adcc217800d71afdc3e0df88378.jpg"
   ]
 }
