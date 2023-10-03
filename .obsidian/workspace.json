@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-03.md",
-                "mode": "source",
+                "file": "效率管理/OKR/10.02 -- 10.08.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-03.md",
+                "file": "效率管理/OKR/10.02 -- 10.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-03.md",
+                "file": "效率管理/OKR/10.02 -- 10.08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-03.md"
+                "file": "效率管理/OKR/10.02 -- 10.08.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "bc88e58e57996f91",
   "lastOpenFiles": [
-    "效率管理/OKR/10.02 -- 10.08/2023-10-02.md",
     "效率管理/OKR/10.02 -- 10.08/2023-10-03.md",
+    "效率管理/OKR/10.02 -- 10.08/2023-10-02.md",
     "Bughunter/知识积累/IDOR && AC Bugs.md",
     "效率管理/OKR/10.02 -- 10.08.md",
     "README.md",
