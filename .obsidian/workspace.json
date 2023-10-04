@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Bughunter/知识积累/WEB缓存中毒.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Bughunter/知识积累/WEB缓存中毒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Bughunter/知识积累/WEB缓存中毒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Bughunter/知识积累/WEB缓存中毒.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "bc88e58e57996f91",
   "lastOpenFiles": [
+    "README.md",
     "Bughunter/知识积累/WEB缓存中毒.md",
     "Bughunter/知识积累/media/Pasted image 20231004172422.png",
     "Bughunter/知识积累/media/Pasted image 20231004000647.png",
@@ -174,7 +175,6 @@
     "效率管理/OKR/10.02 -- 10.08.md",
     "效率管理/OKR/10.02 -- 10.08/2023-10-03.md",
     "效率管理/OKR/10.02 -- 10.08/2023-10-02.md",
-    "README.md",
     "效率管理/OKR/module.md",
     "效率管理/OKR/README.md",
     "效率管理/OKR/week1/media/常微分方程9.24作业.jpg",

