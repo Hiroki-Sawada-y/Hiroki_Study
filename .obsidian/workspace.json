@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Bughunter/知识积累/WEB缓存中毒.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -161,10 +161,13 @@
   },
   "active": "bc88e58e57996f91",
   "lastOpenFiles": [
+    "Bughunter/Bughunter-report/XSS/2023-09-21.md",
+    "Bughunter/Bughunter-report/Top Business Logic reports/2023-09-21.md",
+    "Bughunter/README.md",
     "Bughunter/Bughunter-report/DOS/2023-10-04.md",
+    "Bughunter/知识积累/WEB缓存中毒.md",
     "Bughunter/Bughunter-report/DOS",
     "Bughunter/Bughunter-report/media/Pasted image 20231004190327.png",
-    "Bughunter/知识积累/WEB缓存中毒.md",
     "README.md",
     "Bughunter/知识积累/media/Pasted image 20231004172422.png",
     "Bughunter/知识积累/media/Pasted image 20231004000647.png",
@@ -197,10 +200,8 @@
     "Bughunter/Bughunter-report/IDOR/2023-09-25.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-18.md",
     "Bughunter/Bughunter-report/CSRF/2023-09-21.md",
-    "AI/Coursera-ML-AndrewNg-Notes/README.md",
     "网络安全/11.工控安全",
     "网络安全/10.PHP代码审计",
-    "AI/Coursera-ML-AndrewNg-Notes/srt/README.md",
     "AI/Coursera-ML-AndrewNg-Notes/images/0a4edcb9c0d0a3812a50b3e95ef3912a.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/0a03d239f2f1d1af057d492bcce276f4.png",
     "AI/Coursera-ML-AndrewNg-Notes/code/ex1-linear regression/ex1.pdf",

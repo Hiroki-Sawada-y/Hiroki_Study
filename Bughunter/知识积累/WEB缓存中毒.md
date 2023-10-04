@@ -181,6 +181,6 @@ HTTP/1.1 200 OK
 [Param Miner](https://github.com/PortSwigger/param-miner)
 
 ## Paper
-[实用的web缓存中毒](https://portswigger.net/research/practical-web-cache-poisoning)
-[web缓存中毒导致的dos](https://portswigger.net/research/responsible-denial-of-service-with-web-cache-poisoning)
-[**CPDoS**: **C**ache **P**oisoned **D**enial **o**f **S**ervice](https://cpdos.org/)
+[实用的web缓存中毒](https://portswigger.net/research/practical-web-cache-poisoning)  
+[web缓存中毒导致的dos](https://portswigger.net/research/responsible-denial-of-service-with-web-cache-poisoning)  
+[**CPDoS**: **C**ache **P**oisoned **D**enial **o**f **S**ervice](https://cpdos.org/)  
