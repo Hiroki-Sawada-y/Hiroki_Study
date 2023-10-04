@@ -1,8 +1,11 @@
-> “勿在浮沙筑高台”  
+> [“勿在浮沙筑高台”](https://mp.weixin.qq.com/s/WV8ZPQjXv-_m8EgLCUc1fw)
 ![](draw/2b74b2674c4044553d41d555084bf62.png)  
 
-个人学习笔记 obsidian
-
+个人学习笔记 ：
+1. [github地址](https://github.com/Hiroki-Sawada-y/Hiroki_Study) 
+2. [gitbook地址](https://hiroki-sawada.gitbook.io/study/)
+3. 推荐使用obsidian查看 
+4. 笔记多来自网络文章，每篇文章都会在paper给出，个人仅作翻译/摘录/内化/整理/，供自己查阅学习使用，侵删
 ## 💵Bughunter
 
 ### Paper

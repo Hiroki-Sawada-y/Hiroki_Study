@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bughunter/知识积累/WEB缓存中毒.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bughunter/知识积累/WEB缓存中毒.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bughunter/知识积累/WEB缓存中毒.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bughunter/知识积累/WEB缓存中毒.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "bc88e58e57996f91",
   "lastOpenFiles": [
+    "Bughunter/知识积累/WEB缓存中毒.md",
     "Bughunter/知识积累/media/Pasted image 20231004172422.png",
     "Bughunter/知识积累/media/Pasted image 20231004000647.png",
     "Bughunter/知识积累/media/Pasted image 20231003235129.png",
     "Bughunter/知识积累/media",
-    "Bughunter/知识积累/WEB缓存中毒.md",
     "Bughunter/知识积累/DOS.md",
     "Bughunter/知识积累/IDOR && AC Bugs.md",
     "Bughunter/知识积累/逻辑漏洞.md",
@@ -205,7 +205,6 @@
     "AI/Coursera-ML-AndrewNg-Notes/机器学习个人笔记完整版v5.52-A4打印版.pdf",
     "AI/Coursera-ML-AndrewNg-Notes/code/ex3-neural network/向量化标签.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/zhishixingqiu1.jpg",
-    "AI/Coursera-ML-AndrewNg-Notes/images/gongzhong.png",
-    "AI/Coursera-ML-AndrewNg-Notes/images/gongzhong.jpg"
+    "AI/Coursera-ML-AndrewNg-Notes/images/gongzhong.png"
   ]
 }
