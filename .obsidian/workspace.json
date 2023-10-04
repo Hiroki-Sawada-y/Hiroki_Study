@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Bughunter/知识积累/WEB缓存中毒.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -161,13 +161,15 @@
   },
   "active": "bc88e58e57996f91",
   "lastOpenFiles": [
-    "README.md",
+    "Bughunter/Bughunter-report/DOS/2023-10-04.md",
+    "Bughunter/Bughunter-report/DOS",
+    "Bughunter/Bughunter-report/media/Pasted image 20231004190327.png",
     "Bughunter/知识积累/WEB缓存中毒.md",
+    "README.md",
     "Bughunter/知识积累/media/Pasted image 20231004172422.png",
     "Bughunter/知识积累/media/Pasted image 20231004000647.png",
     "Bughunter/知识积累/media/Pasted image 20231003235129.png",
     "Bughunter/知识积累/media",
-    "Bughunter/知识积累/DOS.md",
     "Bughunter/知识积累/IDOR && AC Bugs.md",
     "Bughunter/知识积累/逻辑漏洞.md",
     "Bughunter/知识积累/XSS.md",
@@ -202,9 +204,7 @@
     "AI/Coursera-ML-AndrewNg-Notes/images/0a4edcb9c0d0a3812a50b3e95ef3912a.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/0a03d239f2f1d1af057d492bcce276f4.png",
     "AI/Coursera-ML-AndrewNg-Notes/code/ex1-linear regression/ex1.pdf",
-    "AI/Coursera-ML-AndrewNg-Notes/机器学习个人笔记完整版v5.52-A4打印版.pdf",
     "AI/Coursera-ML-AndrewNg-Notes/code/ex3-neural network/向量化标签.png",
-    "AI/Coursera-ML-AndrewNg-Notes/images/zhishixingqiu1.jpg",
-    "AI/Coursera-ML-AndrewNg-Notes/images/gongzhong.png"
+    "AI/Coursera-ML-AndrewNg-Notes/images/zhishixingqiu1.jpg"
   ]
 }
