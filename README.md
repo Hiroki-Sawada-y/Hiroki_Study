@@ -10,8 +10,8 @@
 
 ### Paper
 1. [hackerone-reports](https://github.com/reddelexc/hackerone-reports)
-2. [hacktivity](https://hackerone.com/hacktivity/overview)
-3. [pentester.land](https://pentester.land/writeups/)  
+2. [pentester.land](https://pentester.land/writeups/)  
+3. [hacktivity](https://hackerone.com/hacktivity/overview)
 4. [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
 5. [portswigger](https://portswigger.net/)\
 6. [Web Hacking + Bug Bounty Tricks](https://github.com/Mehdi0x90/Web_Hacking)
