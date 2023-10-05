@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "效率管理/旅游/0. 冰岛 14天.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "效率管理/旅游/0. 冰岛 14天.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "效率管理/旅游/0. 冰岛 14天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "效率管理/旅游/0. 冰岛 14天.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "bc88e58e57996f91",
   "lastOpenFiles": [
+    "README.md",
+    "效率管理/旅游/0. 冰岛 14天.md",
+    "效率管理/旅游",
     "Bughunter/漏洞挖掘/1.Checklist/5.高危漏洞.md",
     "Bughunter/知识积累/WEB缓存中毒.md",
     "Bughunter/知识积累/IDOR && AC Bugs.md",
@@ -171,7 +174,6 @@
     "Bughunter/README.md",
     "Bughunter/Bughunter-report/DOS",
     "Bughunter/Bughunter-report/media/Pasted image 20231004190327.png",
-    "README.md",
     "Bughunter/知识积累/media/Pasted image 20231004172422.png",
     "Bughunter/知识积累/media/Pasted image 20231004000647.png",
     "Bughunter/知识积累/media/Pasted image 20231003235129.png",
@@ -199,12 +201,10 @@
     "draw/2b74b2674c4044553d41d555084bf62.png",
     "Bughunter/Bughunter-report/IDOR/2023-09-19.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-25.md",
-    "Bughunter/Bughunter-report/IDOR/2023-09-18.md",
     "网络安全/11.工控安全",
     "网络安全/10.PHP代码审计",
     "AI/Coursera-ML-AndrewNg-Notes/images/0a4edcb9c0d0a3812a50b3e95ef3912a.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/0a03d239f2f1d1af057d492bcce276f4.png",
-    "AI/Coursera-ML-AndrewNg-Notes/code/ex1-linear regression/ex1.pdf",
     "AI/Coursera-ML-AndrewNg-Notes/code/ex3-neural network/向量化标签.png",
     "AI/Coursera-ML-AndrewNg-Notes/images/zhishixingqiu1.jpg"
   ]
