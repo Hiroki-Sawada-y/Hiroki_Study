@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bughunter/知识积累/WEB缓存中毒.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bughunter/知识积累/WEB缓存中毒.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bughunter/知识积累/WEB缓存中毒.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bughunter/知识积累/WEB缓存中毒.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,11 +161,14 @@
   },
   "active": "bc88e58e57996f91",
   "lastOpenFiles": [
+    "Bughunter/漏洞挖掘/1.Checklist/5.高危漏洞.md",
+    "Bughunter/知识积累/WEB缓存中毒.md",
+    "Bughunter/知识积累/IDOR && AC Bugs.md",
+    "Bughunter/知识积累/逻辑漏洞.md",
+    "Bughunter/Bughunter-report/DOS/2023-10-04.md",
     "Bughunter/Bughunter-report/XSS/2023-09-21.md",
     "Bughunter/Bughunter-report/Top Business Logic reports/2023-09-21.md",
     "Bughunter/README.md",
-    "Bughunter/Bughunter-report/DOS/2023-10-04.md",
-    "Bughunter/知识积累/WEB缓存中毒.md",
     "Bughunter/Bughunter-report/DOS",
     "Bughunter/Bughunter-report/media/Pasted image 20231004190327.png",
     "README.md",
@@ -173,8 +176,6 @@
     "Bughunter/知识积累/media/Pasted image 20231004000647.png",
     "Bughunter/知识积累/media/Pasted image 20231003235129.png",
     "Bughunter/知识积累/media",
-    "Bughunter/知识积累/IDOR && AC Bugs.md",
-    "Bughunter/知识积累/逻辑漏洞.md",
     "Bughunter/知识积累/XSS.md",
     "Bughunter/知识积累/Race condition.md",
     "效率管理/OKR/10.02 -- 10.08.md",
@@ -199,7 +200,6 @@
     "Bughunter/Bughunter-report/IDOR/2023-09-19.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-25.md",
     "Bughunter/Bughunter-report/IDOR/2023-09-18.md",
-    "Bughunter/Bughunter-report/CSRF/2023-09-21.md",
     "网络安全/11.工控安全",
     "网络安全/10.PHP代码审计",
     "AI/Coursera-ML-AndrewNg-Notes/images/0a4edcb9c0d0a3812a50b3e95ef3912a.png",
