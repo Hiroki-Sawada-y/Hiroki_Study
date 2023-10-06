@@ -3,7 +3,7 @@
 ### Caching 101
 Web缓存位于用户和应用程序服务器之间，它们保存和提供某些响应的副本。在下图中，我们可以看到三个用户一个接一个地获取相同的资源：
 
-![](media/Pasted%20image%2020231003235129.png)
+![](../../网络安全/01.后端漏洞/media/Pasted%20image%2020231003235129.png)
 
 ### Cache keys
 每当缓存收到一个资源的请求时，它需要决定是否已经保存了这个确切资源的副本，并可以用它来回复请求，还是需要将请求转发给应用服务器。逐字节匹配不现实，这就出现了`缓存键`解决问题~~（通常使用request-line和user-agent作为缓存键）~~
@@ -45,23 +45,44 @@ Connection: close
 ### Cache Poisoning
 Web缓存中毒的目的是发送导致有害响应的请求，这些响应被保存该高速缓存中并提供给其他用户。
 
-![](media/Pasted%20image%2020231004000647.png)
+![](../../网络安全/01.后端漏洞/media/Pasted%20image%2020231004000647.png)
 1. HTTP头等非键控输入
 2. HTTP响应拆分
 3. 请求走私
 
 ### Methodology
 
-![](media/Pasted%20image%2020231004172422.png)
+![](../../网络安全/01.后端漏洞/media/Pasted%20image%2020231004172422.png)
 
-1. 识别和评估非缓存建输入
+1. 识别和评估非缓存建输入（Param Miner）
+2. 从后端服务器获取有害响应~~(如果一个输入在没有被正确清理的情况下被反映在来自服务器的响应中，或者被用于动态生成其他数据，那么这就是Web缓存中毒的潜在入口点。)~~
+3. 使响应缓存~~（是否缓存响应取决于各种因素，例如文件扩展名、内容类型、路由、状态代码和响应头。您可能需要花一些时间来处理不同页面上的请求，并研究该高速缓存的行为。一旦您知道如何缓存包含恶意输入的响应，就可以将漏洞攻击传递给潜在的受害者。）~~
+
+## Labs
+
+#### XSS
+1. 识别和评估非缓存建输入（Param Miner）
+
+![](media/Pasted%20image%2020231006151028.png)  
+![](media/Pasted%20image%2020231006151112.png)  
+![](media/Pasted%20image%2020231006151134.png)  
+
 2. 从后端服务器获取有害响应
-3. 获取缓存的响应
-4. ~~当审核一个实时网站时，意外地毒害其他访问者是一个永久的危险。Param Miner通过向Burp的所有出站请求添加缓存破坏器来缓解此问题。这个缓存buster有一个固定的值，因此您可以自己观察缓存行为，而不会影响其他用户。~~
+![](media/Pasted%20image%2020231006151220.png)   
+在被自己的服务器上 将指向的脚本设为xss攻击脚本
+![](media/Pasted%20image%2020231006152652.png)   
+![](../../Pasted%20image%2020231006152956.png)  
+3. 使响应缓存
+X-Cache: hit 响应来自缓存
+![](../../Pasted%20image%2020231006153251.png)  
 
-### 实例分析
+#### 利用资源导入的不安全处理进行攻击
 
-#### Basic Poisoning
+
+
+## 实例分析
+
+### Basic Poisoning
 1. 找非缓存键
 ```code
 GET /en?cb=1 HTTP/1.1  
@@ -94,7 +115,7 @@ HTTP/1.1 200 OK
 <meta property="og:image" content="https://a."><script>alert(1)</script>"/>
 ```
 
-#### Discreet poisoning
+### Discreet poisoning
 1. 发送大量请求保证缓存，方法几乎不可用
 2. 逆向目标的缓存到期系统并通过浏览文档和监控网站来预测准确的到期时间来避免这个问题，但这听起来就很难。
 3. 响应协议头“Age”和“max-age”分别是当前响应的时间和它将过期的时间
@@ -112,7 +133,7 @@ Cache-Control: public, max-age=1800
 ```
 
 
-#### Selective Poisoning
+### Selective Poisoning
 “Vary” ：赋予的值代表缓存键.
 ```code
 GET / HTTP/1.1  
@@ -129,7 +150,7 @@ Vary: User-Agent, Accept-Encoding
 ```
 Vary头告诉我们，我们的User-Agent可能是该高速缓存键的一部分，手动测试证实了这一点。这意味着，由于我们声称使用Firefox 60，我们的漏洞将只提供给其他Firefox 60用户。~~我们可以使用流行的用户代理列表来确保大多数访问者收到我们的漏洞，但这种行为给了我们更多选择性攻击的选择。如果你知道他们的用户代理，你就有可能针对特定的人进行攻击，甚至可以隐藏自己的网站监控团队。~~
 
-#### DOM Poisoning
+### DOM Poisoning
 利用未加密的输入并不总是像写入XSS Payload一样容易。如以下请求：
 
 ```
@@ -179,7 +200,8 @@ HTTP/1.1 200 OK
 
 ## Tools
 [Param Miner](https://github.com/PortSwigger/param-miner)
-
+1. Guess header
+2. Issue
 ## Paper
 [实用的web缓存中毒](https://portswigger.net/research/practical-web-cache-poisoning)  
 [web缓存中毒导致的dos](https://portswigger.net/research/responsible-denial-of-service-with-web-cache-poisoning)  
