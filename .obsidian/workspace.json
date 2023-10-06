@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-06.md",
+                "file": "Bughunter/知识积累/WEB缓存中毒.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-06.md",
+                "file": "Bughunter/知识积累/WEB缓存中毒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-06.md",
+                "file": "Bughunter/知识积累/WEB缓存中毒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-06.md"
+                "file": "Bughunter/知识积累/WEB缓存中毒.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "bc88e58e57996f91",
   "lastOpenFiles": [
-    "效率管理/OKR/10.02 -- 10.08/2023-10-03.md",
+    "Bughunter/知识积累/IDOR && AC Bugs.md",
+    "Bughunter/知识积累/逻辑漏洞.md",
+    "Bughunter/知识积累/WEB缓存中毒.md",
     "效率管理/OKR/10.02 -- 10.08/2023-10-06.md",
+    "效率管理/OKR/10.02 -- 10.08/2023-10-03.md",
     "效率管理/OKR/10.02 -- 10.08/2023-10-02.md",
     "Bughunter/漏洞挖掘/1.Checklist/0.Checklist.md",
     "Bughunter/漏洞挖掘/0.环境配置/0.环境配置.md",
@@ -170,9 +173,6 @@
     "README.md",
     "效率管理/旅游",
     "Bughunter/漏洞挖掘/1.Checklist/5.高危漏洞.md",
-    "Bughunter/知识积累/WEB缓存中毒.md",
-    "Bughunter/知识积累/IDOR && AC Bugs.md",
-    "Bughunter/知识积累/逻辑漏洞.md",
     "Bughunter/Bughunter-report/DOS/2023-10-04.md",
     "Bughunter/Bughunter-report/XSS/2023-09-21.md",
     "Bughunter/Bughunter-report/Top Business Logic reports/2023-09-21.md",
