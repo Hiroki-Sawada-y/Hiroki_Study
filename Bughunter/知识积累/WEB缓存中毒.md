@@ -58,9 +58,10 @@ Web缓存中毒的目的是发送导致有害响应的请求，这些响应被�
 2. 从后端服务器获取有害响应~~(如果一个输入在没有被正确清理的情况下被反映在来自服务器的响应中，或者被用于动态生成其他数据，那么这就是Web缓存中毒的潜在入口点。)~~
 3. 使响应缓存~~（是否缓存响应取决于各种因素，例如文件扩展名、内容类型、路由、状态代码和响应头。您可能需要花一些时间来处理不同页面上的请求，并研究该高速缓存的行为。一旦您知道如何缓存包含恶意输入的响应，就可以将漏洞攻击传递给潜在的受害者。）~~
 
-## Labs
+## 实例分析
 
-#### XSS
+
+### XSS
 1. 识别和评估非缓存建输入（Param Miner）
 
 ![](media/Pasted%20image%2020231006151028.png)  
@@ -76,11 +77,6 @@ Web缓存中毒的目的是发送导致有害响应的请求，这些响应被�
 X-Cache: hit 响应来自缓存
 ![](../../Pasted%20image%2020231006153251.png)  
 
-#### 利用资源导入的不安全处理进行攻击
-
-
-
-## 实例分析
 
 ### Basic Poisoning
 1. 找非缓存键
@@ -198,6 +194,8 @@ HTTP/1.1 200 OK
 
 到此为止 ，更多内容请看paper
 
+### 
+
 ## Tools
 [Param Miner](https://github.com/PortSwigger/param-miner)
 1. Guess header
@@ -206,3 +204,4 @@ HTTP/1.1 200 OK
 [实用的web缓存中毒](https://portswigger.net/research/practical-web-cache-poisoning)  
 [web缓存中毒导致的dos](https://portswigger.net/research/responsible-denial-of-service-with-web-cache-poisoning)  
 [**CPDoS**: **C**ache **P**oisoned **D**enial **o**f **S**ervice](https://cpdos.org/)  
+[新的web缓存中毒](https://portswigger.net/research/web-cache-entanglement)
