@@ -208,4 +208,14 @@ HTTP/1.1 200 OK
 [新的web缓存中毒](https://portswigger.net/research/web-cache-entanglement)
 
 
-# web缓存欺骗
+# WEB缓存欺骗
+
+# [HTTP头](https://cloud.tencent.com/developer/chapter/13542)
+| HTTP头 | 本身作用|缓存中毒应用|
+|  ----  | ----  | --- |
+|X-Forwarded-Port | 重定向端口 |定向未知端口DOS|
+|X-Forwarded-SSL| 识别协议| 覆盖某些页面，并回复“Contradictory scheme header|
+|Transfer-Encoding||覆盖某些页面，501|
+|Accept-Encoding|
+|Range: bytes=cow||拒绝访问加载JavaScript文件，以引起400响应|
+`Accept`, `Upgrade`, `[Origin](https://nathandavison.com/blog/corsing-a-denial-of-service-via-cache-poisoning)` Max-Forwards
