@@ -1,3 +1,4 @@
+# WEB缓存中毒
 > 本文 翻译整理自[实用的web缓存中毒](https://portswigger.net/research/practical-web-cache-poisoning)，记录仅作个人学习使用，侵删
 ## 核心概念
 ### Caching 101
@@ -205,3 +206,6 @@ HTTP/1.1 200 OK
 [web缓存中毒导致的dos](https://portswigger.net/research/responsible-denial-of-service-with-web-cache-poisoning)  
 [**CPDoS**: **C**ache **P**oisoned **D**enial **o**f **S**ervice](https://cpdos.org/)  
 [新的web缓存中毒](https://portswigger.net/research/web-cache-entanglement)
+
+
+# web缓存欺骗

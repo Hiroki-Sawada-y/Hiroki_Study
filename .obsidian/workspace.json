@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-07.md",
+                "file": "Bughunter/知识积累/WEB缓存.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-07.md",
+                "file": "Bughunter/知识积累/WEB缓存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-07.md",
+                "file": "Bughunter/知识积累/WEB缓存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "效率管理/OKR/10.02 -- 10.08/2023-10-07.md"
+                "file": "Bughunter/知识积累/WEB缓存.md"
               }
             }
           }
@@ -161,10 +161,12 @@
   },
   "active": "bc88e58e57996f91",
   "lastOpenFiles": [
+    "Bughunter/Bughunter-report/Web Cache/2023-10-07.md",
+    "效率管理/OKR/10.02 -- 10.08/2023-10-07.md",
+    "Bughunter/Bughunter-report/Web Cache",
     "效率管理/OKR/10.02 -- 10.08/2023-10-02.md",
     "效率管理/OKR/10.02 -- 10.08.md",
-    "效率管理/OKR/10.02 -- 10.08/2023-10-07.md",
-    "Bughunter/知识积累/WEB缓存中毒.md",
+    "Bughunter/知识积累/WEB缓存.md",
     "Pasted image 20231006153251.png",
     "Pasted image 20231006152956.png",
     "Bughunter/知识积累/media/Pasted image 20231006152652.png",
@@ -201,11 +203,9 @@
     "效率管理/OKR/week1/2023-09-26.md",
     "效率管理/OKR/week1/2023-09-24.md",
     "效率管理/OKR/10.02 -- 10.08/media",
-    "效率管理/网安项目/README.md",
     "效率管理/OKR/10.02 -- 10.08",
     "效率管理/网安项目",
     "效率管理/OKR",
-    "效率管理",
-    "网络安全/11.工控安全"
+    "效率管理"
   ]
 }
