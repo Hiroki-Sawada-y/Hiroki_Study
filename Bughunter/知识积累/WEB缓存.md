@@ -207,7 +207,7 @@ HTTP/1.1 200 OK
 
 ### Cache probing methodology  
 
-![](../../Pasted%20image%2020231008081214.png)  
+![](media/Pasted%20image%2020231008081214.png)  
 
 1. Identify a suitable cache oracle 确定合适的缓存oracle
 2. Probe key handling探测键处理
