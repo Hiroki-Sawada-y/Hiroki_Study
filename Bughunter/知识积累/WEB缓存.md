@@ -210,7 +210,7 @@ HTTP/1.1 200 OK
 ![](media/Pasted%20image%2020231008081214.png)  
 
 1. Identify a suitable cache oracle 确定合适的缓存oracle
-2. Probe key handling探测键处理
+2. Probe key handling 探测键处理
 3. Identify an exploitable gadget识别可利用的小工具
 
 #### Identify a suitable cache oracle
@@ -263,6 +263,8 @@ HTTP/1.1 302 Moved Permanently
 Location: https://vulnerable-website.com:1337/en 
 Cache-Status: hit
 ```
+
+
 
 #### Identify an exploitable gadget
 1. 反射XSS/self-xss -> 存储xss
@@ -345,6 +347,9 @@ PHP:  GET /index.php/xyz
 
 
 # WEB缓存欺骗
+
+
+
 
 # [HTTP头](https://cloud.tencent.com/developer/chapter/13542)
 | HTTP头 | 本身作用|缓存中毒应用|
