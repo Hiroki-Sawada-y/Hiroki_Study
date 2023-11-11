@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5f85b5af7eb9ffac",
+        "id": "7e55af1e7a20eb1b",
         "type": "tabs",
         "children": [
           {
-            "id": "54d54c3f2ccfa0fd",
+            "id": "660f958fc3ed76b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/02.前端漏洞/1.XSS.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9dafd5055a5ab39f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网络安全/02.前端漏洞/2.Javascript伪协议.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "834748b0bd9b56a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网络安全/02.前端漏洞/3.XSS的防御和绕过.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "764a56cae6239612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网络安全/02.前端漏洞/4.原型链污染（Prototype Pollution）.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bcea2423b9dd5ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网络安全/02.前端漏洞/5.DOM clobbering.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e5be4611c8022987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网络安全/02.前端漏洞/6.CSTI.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8e5f1c889837f036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网络安全/02.前端漏洞/7.CSS injection.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "48b4247be6d6954d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网络安全/02.前端漏洞/8.HTML注入.md",
+                "file": "网络安全/06.WebSockets/0.WebSocket基础.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -133,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#xss",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               }
@@ -162,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.50358963012695
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cec311729c090cba",
@@ -178,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网络安全/02.前端漏洞/8.HTML注入.md",
+                "file": "网络安全/06.WebSockets/0.WebSocket基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网络安全/02.前端漏洞/8.HTML注入.md",
+                "file": "网络安全/06.WebSockets/0.WebSocket基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络安全/02.前端漏洞/8.HTML注入.md"
+                "file": "网络安全/06.WebSockets/0.WebSocket基础.md"
               }
             }
           }
@@ -232,6 +148,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dbfolder:创建一个新数据库表": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "audio-recorder:开始/结束录音": false,
@@ -240,57 +157,56 @@
       "daily-notes:打开/创建今天的日记": false,
       "workspaces:管理工作区布局": false,
       "pdf-to-markdown-plugin:PDF to Markdown": false,
-      "command-palette:打开命令面板": false,
-      "dbfolder:创建一个新数据库表": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "48b4247be6d6954d",
+  "active": "660f958fc3ed76b2",
   "lastOpenFiles": [
-    "网络安全/02.前端漏洞/7.CSS injection.md",
-    "网络安全/02.前端漏洞/6.CSTI.md",
-    "网络安全/02.前端漏洞/8.HTML注入.md",
-    "网络安全/02.前端漏洞/5.DOM clobbering.md",
-    "网络安全/02.前端漏洞/4.原型链污染（Prototype Pollution）.md",
-    "网络安全/02.前端漏洞/3.XSS的防御和绕过.md",
-    "网络安全/02.前端漏洞/99.编码和事件.md",
-    "网络安全/02.前端漏洞/2.Javascript伪协议.md",
-    "网络安全/02.前端漏洞/1.XSS.md",
-    "网络安全/02.前端漏洞/media/Pasted image 20231103103012.png",
-    "网络安全/02.前端漏洞/0.浏览器的安全模型.md",
-    "网络安全/02.前端漏洞/media/Pasted image 20231025161411.png",
-    "网络安全/02.前端漏洞/media/Pasted image 20231025155828.png",
-    "网络安全/02.前端漏洞/().md",
-    "网络安全/02.前端漏洞/media/Pasted image 20231025105047.png",
-    "网络安全/media/logic-lab-1.3.png",
-    "网络安全/media/unpredictable URL-js.png",
+    "网络安全/06.WebSockets/media/Pasted image 20231111205550.png",
+    "网络安全/06.WebSockets/media/Pasted image 20231111205232.png",
+    "网络安全/04.API漏洞/GraphQL API漏洞.md",
     "Pasted image 20231019103245.png",
-    "网络安全/02.前端漏洞/media/Pasted image 20231025102517.png",
-    "网络安全/02.前端漏洞/media",
+    "draw/autoshell.md",
+    "draw/autostudy.md",
+    "draw/autosrc.md",
+    "draw/Drawing 2023-11-11 15.58.41.md",
+    "Bughunter/知识积累/IDOR && AC Bugs.md",
+    "Bughunter/知识积累/Race condition.md",
+    "Bughunter/知识积累/子域名接管.md",
+    "Bughunter/知识积累/WEB缓存.md",
+    "网络安全/01.后端漏洞/WEB缓存欺骗漏洞.md",
     "Bughunter/知识积累/XSS.md",
+    "Bughunter/知识积累/websockets.md",
+    "README.md",
+    "网络安全/06.WebSockets/0.WebSocket基础.md",
+    "未命名.md",
+    "效率管理/README.md",
     "效率管理/网安项目/1.SRC学习.md",
     "效率管理/网安项目/README.md",
     "效率管理/网安项目/0.概述.md",
-    "效率管理/README.md",
-    "效率管理/OKR/README.md",
-    "效率管理/OKR/10.16 -- 10.22.md",
-    "效率管理/OKR/10.16 -- 10.22/2023-10-16.md",
-    "draw/autostudy.md",
-    "draw/autosrc.md",
-    "draw/autoshell.md",
-    "Bughunter/知识积累/WEB缓存.md",
-    "Bughunter/Bughunter-report/Web Cache/缓存中毒.md",
-    "draw/2b74b2674c4044553d41d555084bf62.png",
-    "README.md",
-    "Bughunter/Bughunter-report/DOS/2023-10-04.md",
-    "Pasted image 20231019103023.png",
+    "计算机科学/4.数据结构与算法/基本概念.md",
+    "计算机科学/4.数据结构与算法/media/Pasted image 20231110150321.png",
+    "计算机科学/4.数据结构与算法/media/Pasted image 20231110150224.png",
+    "计算机科学/4.数据结构与算法/media/Pasted image 20231110150215.png",
+    "计算机科学/4.数据结构与算法/media/Pasted image 20231110150108.png",
+    "计算机科学/4.数据结构与算法/media/Pasted image 20231110143131.png",
+    "计算机科学/4.数据结构与算法/media/Pasted image 20231110142457.png",
+    "计算机科学/4.数据结构与算法/media/Pasted image 20231110140643.png",
+    "计算机科学/4.数据结构与算法/media/Pasted image 20231110140103.png",
+    "计算机科学/4.数据结构与算法/media",
+    "计算机科学/4.数据结构与算法/README.md",
+    "网络安全/06.WebSockets/media",
+    "网络安全/02.前端漏洞/3.XSS的防御和绕过.md",
+    "网络安全/02.前端漏洞/2.Javascript伪协议.md",
+    "网络安全/02.前端漏洞/4.原型链污染（Prototype Pollution）.md",
+    "计算机科学/README.md",
+    "网络安全/09.Java代码审计/JAVA基础",
+    "网络安全/02.前端漏洞/media",
     "xss.html",
     "新建 文本文档.txt",
     "Bughunter/Bughunter-report/Web Cache",
     "Bughunter/知识积累/media",
     "效率管理/旅游",
-    "Bughunter/Bughunter-report/DOS",
-    "网络安全/01.后端漏洞/media",
-    "效率管理/OKR/10.16 -- 10.22/media",
-    "效率管理/OKR/10.16 -- 10.22"
+    "Bughunter/Bughunter-report/DOS"
   ]
 }

@@ -7,5 +7,11 @@
   "livePreview": false,
   "showLineNumber": true,
   "useMarkdownLinks": true,
-  "tabSize": 3
+  "tabSize": 3,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
