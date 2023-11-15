@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/06.WebSockets/0.WebSocket基础.md",
-                "mode": "preview",
+                "file": "网络安全/02.前端漏洞/2.Javascript伪协议.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cec311729c090cba",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网络安全/06.WebSockets/0.WebSocket基础.md",
+                "file": "网络安全/02.前端漏洞/2.Javascript伪协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网络安全/06.WebSockets/0.WebSocket基础.md",
+                "file": "网络安全/02.前端漏洞/2.Javascript伪协议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络安全/06.WebSockets/0.WebSocket基础.md"
+                "file": "网络安全/02.前端漏洞/2.Javascript伪协议.md"
               }
             }
           }
@@ -162,44 +161,44 @@
   },
   "active": "660f958fc3ed76b2",
   "lastOpenFiles": [
-    "网络安全/06.WebSockets/media/Pasted image 20231111205550.png",
-    "网络安全/06.WebSockets/media/Pasted image 20231111205232.png",
-    "网络安全/04.API漏洞/GraphQL API漏洞.md",
+    "网络安全/02.前端漏洞/6.CSTI.md",
+    "网络安全/02.前端漏洞/5.DOM clobbering.md",
+    "网络安全/02.前端漏洞/1.XSS.md",
+    "网络安全/02.前端漏洞/99.编码和事件.md",
+    "网络安全/02.前端漏洞/3.XSS的防御和绕过.md",
+    "网络安全/02.前端漏洞/2.Javascript伪协议.md",
+    "网络安全/02.前端漏洞/().md",
+    "Bughunter/知识积累/Race condition.md",
+    "Bughunter/知识积累/IDOR && AC Bugs.md",
+    "Bughunter/知识积累/子域名接管.md",
+    "Bughunter/知识积累/WEB缓存.md",
+    "Bughunter/知识积累/DOS.md",
+    "Bughunter/知识积累/XSS.md",
+    "Bughunter/知识积累/websockets.md",
+    "Bughunter/README.md",
+    "README.md",
     "Pasted image 20231019103245.png",
     "draw/autoshell.md",
     "draw/autostudy.md",
     "draw/autosrc.md",
+    "draw/2b74b2674c4044553d41d555084bf62.png",
     "draw/Drawing 2023-11-11 15.58.41.md",
-    "Bughunter/知识积累/IDOR && AC Bugs.md",
-    "Bughunter/知识积累/Race condition.md",
-    "Bughunter/知识积累/子域名接管.md",
-    "Bughunter/知识积累/WEB缓存.md",
-    "网络安全/01.后端漏洞/WEB缓存欺骗漏洞.md",
-    "Bughunter/知识积累/XSS.md",
-    "Bughunter/知识积累/websockets.md",
-    "README.md",
     "网络安全/06.WebSockets/0.WebSocket基础.md",
+    "网络安全/06.WebSockets/media/Pasted image 20231111205550.png",
+    "网络安全/06.WebSockets/media/Pasted image 20231111205232.png",
+    "网络安全/04.API漏洞/GraphQL API漏洞.md",
+    "网络安全/01.后端漏洞/WEB缓存欺骗漏洞.md",
     "未命名.md",
     "效率管理/README.md",
     "效率管理/网安项目/1.SRC学习.md",
-    "效率管理/网安项目/README.md",
-    "效率管理/网安项目/0.概述.md",
-    "计算机科学/4.数据结构与算法/基本概念.md",
     "计算机科学/4.数据结构与算法/media/Pasted image 20231110150321.png",
     "计算机科学/4.数据结构与算法/media/Pasted image 20231110150224.png",
     "计算机科学/4.数据结构与算法/media/Pasted image 20231110150215.png",
     "计算机科学/4.数据结构与算法/media/Pasted image 20231110150108.png",
     "计算机科学/4.数据结构与算法/media/Pasted image 20231110143131.png",
     "计算机科学/4.数据结构与算法/media/Pasted image 20231110142457.png",
-    "计算机科学/4.数据结构与算法/media/Pasted image 20231110140643.png",
-    "计算机科学/4.数据结构与算法/media/Pasted image 20231110140103.png",
     "计算机科学/4.数据结构与算法/media",
-    "计算机科学/4.数据结构与算法/README.md",
     "网络安全/06.WebSockets/media",
-    "网络安全/02.前端漏洞/3.XSS的防御和绕过.md",
-    "网络安全/02.前端漏洞/2.Javascript伪协议.md",
-    "网络安全/02.前端漏洞/4.原型链污染（Prototype Pollution）.md",
-    "计算机科学/README.md",
     "网络安全/09.Java代码审计/JAVA基础",
     "网络安全/02.前端漏洞/media",
     "xss.html",
