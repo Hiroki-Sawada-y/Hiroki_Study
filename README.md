@@ -15,6 +15,7 @@
 4. [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
 5. [portswigger](https://portswigger.net/)\
 6. [Web Hacking + Bug Bounty Tricks](https://github.com/Mehdi0x90/Web_Hacking)
+7. [mlsecops](https://mlsecops.com/)
 
 ### Video
 1. [Recon for Ethical Hacking渗透测试漏洞赏金](https://mega.nz/folder/CDphRCJB#eBZqSmleyW6Thld_8RbZwQ)
